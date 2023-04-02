@@ -1,0 +1,36 @@
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    flex-wrap: wrap;
+  }
+  
+  .navItem {
+    margin: 0 calc(10px + 2vw);
+  }
+  
+  .navLink {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .navLink:hover {
+    color: #007bff;
+  }
+  
+  .active {
+    color: #007bff;
+  }
+  
+  .navContainer {
+    
+  }  
+
+  .buttonsWrapper {
+    display: inline-block;
+    border-bottom: 1px solid #000; /* Adjust the color and thickness as needed */
+  }
+  
