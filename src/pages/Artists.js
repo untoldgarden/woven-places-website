@@ -3,8 +3,11 @@ import React from 'react';
 const Artists = () => {
   return (
     <div>
-      <h1>The artists in Woven Places</h1>
-      <p>Some description...</p>
+      <div className="title">
+        <h1>Konstnärerna i Vävda Rum</h1><br></br>
+      </div>
+      <div className="text-container">
+      </div>
     </div>
   );
 };

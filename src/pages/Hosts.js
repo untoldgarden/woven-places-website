@@ -3,8 +3,11 @@ import React from 'react';
 const Hosts = () => {
   return (
     <div>
-      <h1>All hosts of Woven Places</h1>
-      <p>Some description...</p>
+      <div className="title">
+        <h1>Alla värdföreningar i Vävda rum</h1><br></br>
+      </div>
+      <div className="text-container">
+      </div>
     </div>
   );
 };

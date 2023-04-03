@@ -3,8 +3,11 @@ import React from 'react';
 const About = () => {
   return (
     <div>
-      <h1>More information about woven places</h1>
-      <p>Some description...</p>
+      <div className="title">
+        <h1>Djuplodande text om Vävda rum</h1><br></br>
+      </div>
+      <div className="text-container">
+      </div>
     </div>
   );
 };
