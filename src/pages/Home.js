@@ -3,6 +3,7 @@ import '../sharedStyles.css';
 
 const Home = () => {
   return (
+    <div className="container">
     <div>
       <div className="title">
         <h1>Sveriges största utställning <br></br>med offentlig virtuell konst</h1><br></br>
@@ -13,6 +14,7 @@ const Home = () => {
       <p>Vävda rum is initiated by Riksförbundet Sveriges Konstföreningar with funding from Postkodsstiftelsen.</p>
       <p>The participating artists are Space Popular, Lundahl & Seitl, Oscar Häggström, Åsa Cederqvist, Untold Garden, Pastelae, Eric Magassa, James Webb, Adam James, SONG (Choterina Freer, Anna Kinbom and Rut Karin Zettergren in collaboration with Paola Torres Núñez del Prado and Rosalie Yu).</p>
       </div>
+    </div>
     </div>
   );
 };
