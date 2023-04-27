@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import Artists from './pages/Artists';
 import Hosts from './pages/Hosts';
 import About from './pages/About';
+import AppRouting from './pages/AppRouting';
 import './App.css';
 import './sharedStyles.css';
 
@@ -25,6 +26,7 @@ function App() {
           <Route path="/konstnarer" element={<Artists />} />
           <Route path="/vardar" element={<Hosts />} />
           <Route path="/om" element={<About />} />
+          <Route path="/app" element={<AppRouting />} />
         </Routes>
         <Footer />
       </div>
