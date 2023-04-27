@@ -10,22 +10,22 @@ const Navigation = () => {
           <ul className={styles.nav}>
             <li className={styles.navItem}>
               <NavLink className={styles.navLink} activeClassName={styles.active} to="/" exact>
-                Home
+                Hem
               </NavLink>
             </li>
             <li className={styles.navItem}>
               <NavLink className={styles.navLink} activeClassName={styles.active} to="/konstnarer">
-                Artists
+                Konstnärer
               </NavLink>
             </li>
             <li className={styles.navItem}>
               <NavLink className={styles.navLink} activeClassName={styles.active} to="/vardar">
-                Galleries
+                Värdar
               </NavLink>
             </li>
             <li className={styles.navItem}>
               <NavLink className={styles.navLink} activeClassName={styles.active} to="/om">
-                About
+                Om
               </NavLink>
             </li>
           </ul>

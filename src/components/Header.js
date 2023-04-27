@@ -1,13 +1,13 @@
 import React from 'react';
 import Banner from './Banner';
-import Navigation from './Navigation';
+// import Navigation from './Navigation';
 import '../sharedStyles.css';
 
 const Header = () => {
   return (
     <header className="header">
       <Banner />
-      <Navigation />
+      {/* <Navigation /> */}
     </header>
   );
 };
