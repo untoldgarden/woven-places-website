@@ -32,11 +32,19 @@ body {
   text-align: center;
 }
 
+.artworktitle {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 700px;
+}
+
+
 .container {
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 16px;
   box-sizing: border-box;
+  align-items: center;
 }
 
 /* Media query for mobile devices */
@@ -48,4 +56,11 @@ body {
   .nav-item {
     margin: 5px 0;
   }
+}
+
+
+.image-container img {
+  width: 51%;
+  height: auto;
+  margin-bottom: 40px;
 }
