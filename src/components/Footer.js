@@ -11,7 +11,7 @@ const Footer = () => {
         <a href="https://www.sverigeskonstforeningar.nu/" target="_blank" rel="noreferrer">
         <img className="logo2" src="/images/sverigeskonstforeningar.webp" alt="sverigeskonstforeningar" />
         </a>
-        <p className="footer-text">Projektet Vävda rum är initierat av Riksförbundet Sveriges Konstföreningar och finansieras av Postkodstiftelsen.</p>
+        <p className="footer-text">Projektet Vävda rum är initierat av Riksförbundet Sveriges Konstföreningar i samarbete med Untold Garden, och finansieras av Postkodstiftelsen.</p>
       </div>
     </footer>
   );
