@@ -1,0 +1,128 @@
+{
+    "artistsTitle": {
+        "sv": "Konstnärerna i Vävda rum",
+        "en": "The artists in Vävda rum"
+    },
+    "artists": [
+        {
+            "id": "asaCederqvist",
+            "title": {
+                "sv": "Åsa Cederqvist, *Giga-annum*, 2023",
+                "en": "Åsa Cederqvist, *Giga-annum*, 2023"
+            },
+            "text": {
+                "sv": "Giga-annum är ett interaktivt konstverk som utforskar vår relation till naturen, specifikt vatten. Den oformliga vattenandens rörelser och utseende påverkas av offentligt tillgänglig vattendata från platsen där besökaren befinner sig.",
+                "en": "Giga-annum is an interactive artwork that explores our relationship to nature, specifically water. The movements and appearance of the malleable water spirit are influenced by publicly available water data from the location where the visitor is situated."
+            },
+            "image": "/images/artists/asacederqvist.webp"
+        },
+        {
+            "id": "jamesWebb",
+            "title": {
+                "sv": "James Webb, *Mediciner för tur och empatisk magi*, 2023",
+                "en": "James Webb, *Empathetic Magic*, 2023"
+            },
+            "text": {
+                "sv": "Hitta ett utrymme att sitta och dröja, låt omgivningens ljud fascinera dig och slappna av; detta är ett tillfälle att andas och låta platsen harmonisera dig. Känn lugnet och lyssna till rösten som frammanar välsignelser. Närvaron av andra besökare utvecklar och förändrar konstverkets kurs.",
+                "en": "Find a space to sit and linger, let the sounds of the surroundings fascinate you and relax; this is an opportunity to breathe and let the place harmonize with you. Feel the calm and listen to the voice that invokes blessings. The presence of other visitors develops and changes the course of the artwork."
+            },
+            "image": "/images/artists/jamesWebb.webp"
+        },
+        {
+            "id": "pastelae",
+            "title": {
+                "sv": "Pastelae, *Berget*, 2023",
+                "en": "Pastelae, *Berget*, 2023"
+            },
+            "text": {
+                "sv": " En ren står stolt på klippans kant och blickar ut över sin hjord som rör sig runt ett centralt torg. Hornen är metalliska och stenar och hovar glimmar teknologiskt av rosa krom. Alla som är inne och besöker verket samtidigt blir en del av hjorden genom en ren som följer deras rörelser.",
+                "en": "A reindeer stands on the edge of a cliff, proudly looking out over its herd moving around a central square. The horns are metallic, rocks and hooves shine with a pink chrome techno glow. Everyone who is visiting the artwork at the same time becomes part of the herd in the form of a reindeer that follows their movements."
+            },
+            "image": "/images/artists/pastelae.webp"
+        },
+        {
+            "id": "ericMagassa",
+            "title": {
+                "sv": "Eric Magassa, *Parallella världar*, 2023",
+                "en": "Eric Magassa, *Parallel worlds*, 2023"
+            },
+            "text": {
+                "sv": "I brunnen bor andeväsen som berättar historier komprimerade i ord och poesi. Med din röst aktiveras en magisk portal som öppnar upp till en parallell värld. Ta ton, sjung en sång eller viska en hemlighet till den förtrollade brunnen, öppna upp en passage och färdas till en annan plats.",
+                "en": "In the well, there are spirits who tell stories compressed in words and poetry. With your voice, a magical portal is activated, opening up to a parallel world. Take a tone, sing a song, or whisper a secret to the enchanted well, open up a passage and travel to another place."
+            },
+            "image": "/images/artists/ericMagassa.webp"
+        },
+        {
+            "id": "lundahlSeitl",
+            "title": {
+                "sv": "Lundahl & Seitl, *Ögonsvävare vid Pseudo Monas fontän*, 2023",
+                "en": "Lundahl & Seitl, *Pseudo Mona's Fountain*, 2023"
+            },
+            "text": {
+                "sv": "Denna digitala superorganism är sammankopplad genom portaler som placerats vid fontäner eller träd över hela Sverige. Här finns virtuella mikrober som liknar den regnbildande bakterien pseudomonas syringae. Möt de digitala mikroberna och påverka den inre meteorologin i deras sammanvävda miljö.",
+                "en": "This digital superorganism is interconnected through portals located at fountains or trees throughout Sweden, populated by virtual microbes that resemble the rain-producing bacterium Pseudomonas syringae. Meet the digital microbes and influence the internal meteorology of their interwoven environment."
+            },
+            "image": "/images/artists/lundahlseitl.webp"
+        },
+        {
+            "id": "adamJames",
+            "title": {
+                "sv": "Adam James, *Den tredje länken*, 2023",
+                "en": "Adam James, *The third thing*, 2023"
+            },
+            "text": {
+                "sv": "Konstverket ber besökare inta positionen som spelare eller lekledare med uppgift att hitta sätt att koppla samman konstföreningar från hela Sverige. Genom de instruktioner som dyker upp kan ni tillsammans skapa en social skulptur.",
+                "en": "Adam James invites visitors to take on the role of player or game master and find ways to connect art societies from all over Sweden. Follow the instructions to create a social sculpture together with other visitors."
+            },
+            "image": "/images/artists/adamJames.webp"
+        },
+        {
+            "id": "song",
+            "title": {
+                "sv": "SONG, *Sammanväva*, 2023",
+                "en": "SONG, *Interweave*, 2023"
+            },
+            "text": {
+                "sv": "Här bjuds du in till att delta i en ritual tillsammans med Vinterhaggan, Spindelpersonen, Glitch Witch och White Snake. Verket är ett samarbete mellan fem konstnärer och bygger på kunskap sprungen ur samarbetsmetoder och kollektiva strategier från intersektionell feminism.",
+                "en": "You are invited to participate in a ritual with the Winter Hag, Spider Person, Glitch Witch, and the magical Snake Person. The work is a collaboration between five artists and is based on knowledge derived from collaborative methods and collective strategies from intersectional feminism."
+            },
+            "image": "/images/artists/song.webp"
+        },
+        {
+            "id": "oscarHaggstrom",
+            "title": {
+                "sv": "Oscar Häggström, *Jogg your mind*, 2023",
+                "en": "Oscar Häggström, *Jogg your mind*, 2023"
+            },
+            "text": {
+                "sv": "I konstverket får du träffa, träna och interagera med en personlig tränare. Träningstiden med din pt dokumenteras och loggas och du kan följa andras resultat och statistik. Se till att komma tillbaka och träna med din pt för att bli bäst i Sverige!",
+                "en": "In the artwork, you get to meet, train, and interact with a personal trainer. Your training time with your PT is documented and logged, and you can follow the results and statistics of others. Make sure to come back and train with your PT to become the best in Sweden!"
+            },
+            "image": "/images/artists/oscar.webp"
+        },
+        {
+            "id": "spacepopular",
+            "title": {
+                "sv": "Space Popular, *Rootunda*, 2023",
+                "en": "Space Popular, *Rootunda*, 2023"
+            },
+            "text": {
+                "sv": "Rootunda är en prototyp för en rumslig webbläsare med sammanslingrade lager av virtuella upplevelser, där besökare representeras av trådar med namnet på platsen de befinner sig. Genom sina utforskningar bidrar besökarna till nätverkets väv.",
+                "en": "Rootunda is a prototype for a spatial web browser with intertwined layers of virtual experiences, where visitors are represented by threads with the name of the place where they are located. Through their explorations visitors contribute to the network's weave."
+            },
+            "image": "/images/artists/spop.webp"
+        },
+        {
+            "id": "untoldgarden",
+            "title": {
+                "sv": "Untold Garden, *Det långa sorlet*, 2023",
+                "en": "Untold Garden, *Interspatial Echoes*, 2023"
+            },
+            "text": {
+                "sv": "Det långa sorlet är lika delar socialt nätverk och offentlig konst, en virtuell kommunikationsplattform som endast kan besökas på Sveriges torg. Alla besökare kan själva delta i verket genom att skriva egna meddelanden och läsa och svara på andras.",
+                "en": "Interspatial Echoes is equal parts social network and public art, a virtual communication platform that can only be visited on squares around Sweden. All visitors can participate in the artwork by writing their own messages and reading and responding to others."
+            },
+            "image": "/images/artists/untoldgarden.webp"
+        }
+    ]
+}
