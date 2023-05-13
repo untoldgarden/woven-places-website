@@ -52,3 +52,14 @@
     object-fit: cover;  /* this will make the image cover the specified width and height while maintaining its aspect ratio */
   }
   
+  @media screen and (max-width: 767px) {
+    .artist-row {
+      flex-direction: column;
+    }
+  
+    .artist-image img {
+      width: 100%;  /* adjust as needed */
+      height: auto;  /* adjust as needed */
+    }
+  }
+  

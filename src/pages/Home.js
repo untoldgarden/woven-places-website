@@ -9,19 +9,31 @@ const Home = () => {
 
   return (
     <div className="content-section">
-    <div className="container">
-      <div>
-        <div className="taglineBold">
-          <ReactMarkdown>{data.titleBold[language]}</ReactMarkdown>
+      <div className="container">
+        <div>
+          <div className="taglineBold">
+            <ReactMarkdown>{data.titleBold[language]}</ReactMarkdown>
+          </div>
+          <div className="taglineCursive">
+            <ReactMarkdown>{data.titleCursive[language]}</ReactMarkdown>
+          </div>
+          <div className="video-container">
+            <iframe 
+              src="https://player.vimeo.com/video/825080696" 
+              width="640" 
+              height="360" 
+              frameborder="0" 
+              allow="autoplay; fullscreen; picture-in-picture" 
+              allowfullscreen
+              title="Vimeo video player"
+            ></iframe>
+          </div>
+            <br></br>
+          <div className="text-container">
+            <ReactMarkdown>{data.body[language]}</ReactMarkdown>
+          </div>
         </div>
-        <div className="taglineCursive">
-          <ReactMarkdown>{data.titleCursive[language]}</ReactMarkdown>
-        </div>
-        <div className="text-container">
-          <ReactMarkdown>{data.body[language]}</ReactMarkdown>
-      </div> 
-    </div>
-    </div>
+      </div>
     </div>
   );
 };
