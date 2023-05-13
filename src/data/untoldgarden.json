@@ -1,13 +1,28 @@
 {
     "untoldGarden": {
-      "title": {
-        "sv": "Untold Garden, _Det långa sorlet_, 2023",
-        "en": "Untold Garden, _Interspatial Echoes_, 2023"
-      },
-      "text": {
-        "sv": "_Det långa sorlet_ är lika delar socialt nätverk och offentlig konst. Det är en virtuell kommunikationsplattform som endast kan besökas på torg runtom i Sverige, och som visar alla meddelanden i ett stort flödande moln ovanför besökaren. Du kan själv delta i verket genom att skriva egna meddelanden och läsa andras och på så vis påverka ordmolnets innehåll och form. Verket kopplar samman modern kommunikationsteknologi med torgets historiska roll som en plats för politik och skvaller och binder samman alla Sveriges torg till ett.\n\nUntold Garden är en konst- och designstudio som består av Max Čelar och Jakob Skote och som utforskar hur teknik kan katalysera mellanmänskliga relationer och möjliggöra alternativa mänskliga upplevelser. Genom att skapa deltagarbaserade system uppmanar de besökaren att ifrågasätta vem som kontrollerar vår onlinenärvaro och spekulera i hur vi kan interagera i framtiden. I sina projekt strävar de efter att gå bortom distinktionen mellan verktyg och objekt för att i stället se varje objekt som en potentiell plattform för möjliggörandet av nya idéer. Deras praktik inkluderar fysiska installationer, virtuella skulpturer, interaktiva föreställningar, artificiell natur och experimentella sociala nätverk.",
-        "en": "_Interspatial Echoes_ is equal parts social network and public art. It is a virtual communication platform that can only be visited on squares around Sweden, displaying messages in a large flowing cloud above the visitor. You can participate in the artwork by writing your own messages and reading others, thereby influencing the content and form of the word cloud. The artwork connects modern communication technology with the square's historical role as a place for politics and gossip and ties together all of Sweden's squares into one.\n\nUntold Garden is an art and design studio consisting of Max Čelar and Jakob Skote, exploring how technology can catalyze interpersonal relationships and enable alternative human experiences. By creating participatory systems, they encourage visitors to question who controls our online presence and speculate on how we can interact in the future. In their projects, they strive to go beyond the distinction between tools and objects, seeing each object as a potential platform for enabling new ideas. Their practice includes physical installations, virtual sculptures, interactive performances, artificial nature, and experimental social networks."
-      }
+        "title": {
+            "sv": "Untold Garden, _Det långa sorlet_, 2023",
+            "en": "Untold Garden, _Interspatial Echoes_, 2023"
+        },
+        "text": {
+            "sv": "_Det långa sorlet_ är lika delar socialt nätverk och offentlig konst. Det är en virtuell kommunikationsplattform som endast kan besökas på torg runtom i Sverige, och som visar alla meddelanden i ett stort flödande moln ovanför besökaren. Du kan själv delta i verket genom att skriva egna meddelanden och läsa andras och på så vis påverka ordmolnets innehåll och form. Verket kopplar samman modern kommunikationsteknologi med torgets historiska roll som en plats för politik och skvaller och binder samman alla Sveriges torg till ett.\n\nUntold Garden är en konst- och designstudio som består av Max Čelar och Jakob Skote och som utforskar hur teknik kan katalysera mellanmänskliga relationer och möjliggöra alternativa mänskliga upplevelser. Genom att skapa deltagarbaserade system uppmanar de besökaren att ifrågasätta vem som kontrollerar vår onlinenärvaro och spekulera i hur vi kan interagera i framtiden. I sina projekt strävar de efter att gå bortom distinktionen mellan verktyg och objekt för att i stället se varje objekt som en potentiell plattform för möjliggörandet av nya idéer. Deras praktik inkluderar fysiska installationer, virtuella skulpturer, interaktiva föreställningar, artificiell natur och experimentella sociala nätverk.  \n\nDet långa sorlet är finansierat med stöd från Kulturbryggan. Paperbirds har utvecklat fysikmotorn som verket använder sig av.",
+            "en": "_Interspatial Echoes_ is equal parts social network and public art. It is a virtual communication platform that can only be visited on squares around Sweden, displaying messages in a large flowing cloud above the visitor. You can participate in the artwork by writing your own messages and reading others, thereby influencing the content and form of the word cloud. The artwork connects modern communication technology with the square's historical role as a place for politics and gossip and ties together all of Sweden's squares into one.\n\nUntold Garden is an art and design studio consisting of Max Čelar and Jakob Skote, exploring how technology can catalyze interpersonal relationships and enable alternative human experiences. By creating participatory systems, they encourage visitors to question who controls our online presence and speculate on how we can interact in the future. In their projects, they strive to go beyond the distinction between tools and objects, seeing each object as a potential platform for enabling new ideas. Their practice includes physical installations, virtual sculptures, interactive performances, artificial nature, and experimental social networks.  \n\nInterspatial Echoes is realised with funding from Kulturbryggan. Paperbirds has developed the custom physics engine that powers the artwork."
+        },
+        "links": [
+            {
+                "text": {
+                    "sv": "Hemsida",
+                    "en": "Website"
+                },
+                "url": "http://www.untold.garden"
+            },
+            {
+                "text": {
+                    "sv": "Instagram",
+                    "en": "Instagram"
+                },
+                "url": "http://www.instagram.com/untoldgarden"
+            }
+        ]
     }
-  }
-  
+}

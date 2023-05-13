@@ -3,6 +3,7 @@ import { LanguageContext } from '../../contexts/LanguageContext';
 import ReactMarkdown from 'react-markdown';
 import '../../sharedStyles.css';
 import data from '../../data/jameswebb.json';
+import './ArtistPage.css';
 
 const JamesWebb = () => {
   const { language } = useContext(LanguageContext);
@@ -19,6 +20,11 @@ const JamesWebb = () => {
         <div className="text-container">
           <ReactMarkdown>{data.jamesWebb.text[language]}</ReactMarkdown>
         </div>
+        {data.jamesWebb.links.map(link => (
+  <a href={link.url} className="artist-link" target="_blank" rel="noopener noreferrer">
+    <ReactMarkdown>{link.text[language]}</ReactMarkdown>
+  </a>
+))}
       </div>
     </div>
   );

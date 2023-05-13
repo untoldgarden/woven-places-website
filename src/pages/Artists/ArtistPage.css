@@ -1,0 +1,11 @@
+.artist-link {
+    color: inherit;
+    text-decoration: none;
+    text-align: left;
+  }
+  
+  .artist-link:hover {
+    font-weight: bold;
+    color: inherit;
+  }
+  

@@ -7,7 +7,16 @@
       "text": {
         "sv": "När vi träder in i verket möts vi av en virtuell cylindrisk textil som när den dras åt sidan avslöjar ett rum av gobelänger med ett manifest. Rummet är en prototyp för en rumslig webbläsare med sammanslingrade lager av virtuella upplevelser, där besökare representeras av trådar med namnet på platsen där de befinner sig. Genom sina utforskningar bidrar besökarna till nätverkets väv. Idén är en virtuell portal där textiliers materiella beteende blir ett universellt sätt att röra sig genom den virtuella miljön.\n\nMed sin forskning, som utgår från texter som Stephen Grahams _Towards Urban Cyberspace Planning_ från slutet av 1990-talet_,_ vill Space Popular bidra till området som de kallar virtuell urbanism. Det handlar om de protokoll som möjliggör att omedelbart teleportera oss mellan virtuella miljöer, bläddra och bokmärka dem, gå tillbaka i historiken eller ta bort den. Element som portaler, hissar, teleporterare och till och med menyer och knappar är den virtuella stadens vägar, trottoarer och kollektivtrafik.",
         "en": "Entering the work we are met by a virtual cylindrical textile that when pulled aside reveals a room of tapestries with a manifesto. The room is a prototype for a spatial web browser with intertwined layers of virtual experiences, where visitors are represented by threads naming the place they are visiting the work from. Through their explorations, visitors contribute to the network's weave. The idea is a virtual portal where the material behavior of textiles becomes a universal way to navigate through the virtual environment. \n\nWith their research, based on texts such as Stephen Graham's Towards Urban Cyberspace Planning from the late 1990s, Space Popular aims to contribute to the field they call virtual urbanism. It concerns the protocols that enable us to teleport immediately between virtual environments, browse and bookmark them, go back in history or delete them. Elements such as portals, elevators, teleporters, and even menus and buttons are the virtual city's roads, sidewalks, and public transportation."
-      }
+      },
+      "links": [
+        {
+          "text": {
+            "sv": "Hemsida",
+            "en": "Website"
+          },
+          "url": "http://www.spacepopular.com"
+        }
+      ]
     }
   }
   
