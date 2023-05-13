@@ -25,7 +25,7 @@ import './sharedStyles.css';
 
 function App() {
   const backgroundImageStyle = {
-    backgroundImage: `url(${process.env.PUBLIC_URL}/background.jpg)`,
+    backgroundImage: `url(${process.env.PUBLIC_URL}/background.webp)`,
     backgroundSize: '800px',
     backgroundPosition: '-200px center',
     backgroundRepeat: 'no-repeat',
