@@ -1,0 +1,24 @@
+{
+    "home": {
+        "sv": "Hem",
+        "en": "Home"
+    },
+    "about": {
+        "sv": "Om",
+        "en": "About"
+    },
+    "hosts": {
+        "sv": "Värdar",
+        "en": "Hosts"
+    },
+    "artists":
+    {
+        "sv": "Konstnärer",
+        "en": "Artists"
+    },
+    "calendar":
+    {
+        "sv": "Kalendarium",
+        "en": "Calendar"
+    }
+}

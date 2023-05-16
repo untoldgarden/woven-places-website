@@ -2,6 +2,7 @@ import React, { useContext } from 'react';
 import { NavLink } from 'react-router-dom';
 import { LanguageContext } from '../contexts/LanguageContext';
 import styles from './Navigation.module.css';
+import data from '../data/navigation.json';
 
 const Navigation = () => {
   const { language, setLanguage } = useContext(LanguageContext);
@@ -19,22 +20,22 @@ const Navigation = () => {
           <ul className={styles.nav}>
             <li className={styles.navItem}>
               <NavLink className={styles.navLink} activeClassName={styles.active} to="/" exact>
-                Hem
+                {data.home[language]}
               </NavLink>
             </li>
             <li className={styles.navItem}>
               <NavLink className={styles.navLink} activeClassName={styles.active} to="/konstnarer">
-                Konstnärer
+                {data.artists[language]}
               </NavLink>
             </li>
             <li className={styles.navItem}>
               <NavLink className={styles.navLink} activeClassName={styles.active} to="/vardar">
-                Värdar
+                {data.hosts[language]}
               </NavLink>
             </li>
             <li className={styles.navItem}>
               <NavLink className={styles.navLink} activeClassName={styles.active} to="/om">
-                Om
+                {data.about[language]}
               </NavLink>
             </li>
             <li className={styles.navItem}>
