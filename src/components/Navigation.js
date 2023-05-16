@@ -38,6 +38,11 @@ const Navigation = () => {
                 {data.about[language]}
               </NavLink>
             </li>
+            {/* <li className={styles.navItem}>
+              <NavLink className={styles.navLink} activeClassName={styles.active} to="/kalendarium">
+                {data.calendar[language]}
+              </NavLink>
+            </li> */}
             <li className={styles.navItem}>
               <button 
                 className={`${styles.navLink} ${styles.languageButton}`} 

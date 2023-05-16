@@ -1,0 +1,18 @@
+{
+    "title":
+    {
+        "sv": "Kalendarium",
+        "en": "Calendar"
+    },
+    "about":
+    {
+        "sv": "En lista över alla event i Vävda rum",
+        "en": "A list of all events in Vävda rum"
+    },
+    "events":
+    [
+        {
+
+        }
+    ]
+}

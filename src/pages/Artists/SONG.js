@@ -12,7 +12,7 @@ const SONG = () => {
     <div className="content-section">
       <div className="container">
       <div className="image-container">
-          <img src="/images/artworks/song-interweave.webp" alt="SONG"></img>
+          <img src="/images/artworks/song.webp" alt="SONG"></img>
         </div>
         <div className="title">
           <ReactMarkdown>{data.song.title[language]}</ReactMarkdown>

@@ -3,16 +3,23 @@
     padding: 20px;
     margin-top: auto;
     flex-shrink: 0;
+    
 }
 
 
 .footer-content {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
     text-align: center;
     gap: 20px;
-  }
+    max-width: 700px;
+    margin: auto;
+    padding-top: 30px;
+    border-top: 1px solid black;
+}
+
   
 .logos {
     display: flex;
@@ -41,6 +48,32 @@
     font-size: 0.7em;
     max-width: 80%;
 }
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; /* Adjust the gap between images as needed */
+    flex-wrap: wrap; /* Allows the images to wrap onto the next line if there isn't enough space */
+    max-width: 100%; /* You can adjust this value as needed */
+    margin: 0 auto; /* This will center the .social-links div */
+    margin-bottom: 50px; /* Adjust the value as needed */
+  }
+  
+  
+  .social-links .logo-wrapper {
+    flex: 1;
+  }
+  
+  .social-links .logo {
+    max-height: 40px;
+    height: auto;
+  }
+
+  .logo {
+    height: 30px;
+    width: auto; /* This will maintain the aspect ratio of the image */
+}  
   
 @media (min-width: 768px) {
     .footer-content {
@@ -60,7 +93,11 @@
     }
 
     .footer-text {
-        font-size: 0.9em;
+        font-size: 0.65em;
+        max-width: 40%;
+    }
+    .social-links
+    {
         max-width: 40%;
     }
 }

@@ -20,5 +20,10 @@
     {
         "sv": "Kalendarium",
         "en": "Calendar"
+    },
+    "app":
+    {
+        "sv": "App",
+        "en": "App"
     }
 }
