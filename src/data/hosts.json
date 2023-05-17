@@ -6,7 +6,43 @@
     },
     "hostsText":
     {
-        "sv": "Kommer snart...",
-        "en": "Coming soon..."
-    }
+        "sv": "På den här kartan visas i vilka kommuner i Sveriges som utställningen Vävda rum kommer att visas under perioden 20/5 – 30/9 2023. Ladda ner appen Vävda rum till din mobil för att se var konstverken finns i din kommun.",
+        "en": "This map shows in which municipalities in Sweden the exhibition Vävda rum will be shown during the period 20/5 – 30/9 2023. Download the app Vävda rum to your mobile to see where the artworks are located in your municipality."
+    },
+    "hosts":
+    [
+        {
+            "id": "organisation",
+            "name":{
+                "sv":"Svenskt namn",
+                "en":"English name"
+            },
+            "description":{
+                "sv":"Svensk beskrivning",
+                "en":"English description"
+            },
+            "address":{
+                "sv":"Svensk adress",
+                "en":"English address"
+            },
+            "events":
+            [
+                {
+                    "id":"event",
+                    "name":{
+                        "sv":"Svenskt event namn",
+                        "en":"English event name"
+                    },
+                    "time":{
+                        "sv":"Svenskt event tid",
+                        "en":"English event time"
+                    },
+                    "description":{
+                        "sv":"Svensk event beskrivning",
+                        "en":"English event description"
+                    }
+                }
+            ]
+        }
+    ]
 }
