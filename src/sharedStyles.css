@@ -47,6 +47,14 @@ html, body {
   text-align: left;
 }
 
+.title-small {
+  font-family: area-normal, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 1.2em;
+  text-align: left;
+}
+
 .title-centered {
   font-family: area-normal, sans-serif;
   font-weight: 700;

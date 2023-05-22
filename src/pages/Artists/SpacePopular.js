@@ -11,9 +11,9 @@ const SpacePopular = () => {
   return (
     <div className="content-section">
       <div className="container">
-      {/* <div className="image-container">
-          <img src="/images/artworks/spacepopular.webp" alt="SONG"></img>
-        </div> */}
+      <div className="image-container">
+          <img src="/images/artworks/spacepopular-rootunda.webp" alt="Space Popular - Rootunda"></img>
+        </div>
         <div className="title">
           <ReactMarkdown>{data.spacePopular.title[language]}</ReactMarkdown>
         </div>

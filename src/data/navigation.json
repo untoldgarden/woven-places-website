@@ -25,5 +25,10 @@
     {
         "sv": "App",
         "en": "App"
+    },
+    "faq":
+    {
+        "sv": "FAQ",
+        "en": "FAQ"
     }
 }

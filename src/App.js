@@ -9,6 +9,7 @@ import Hosts from './pages/Hosts';
 import About from './pages/About';
 import AppRouting from './pages/AppRouting';
 import Kalendarium from './pages/Kalendarium';
+import FAQ from './pages/Faq';
 import Workshops from './pages/Workshops';
 import AdamJames from './pages/Artists/AdamJames';
 import JamesWebb from './pages/Artists/JamesWebb';
@@ -47,6 +48,7 @@ function App() {
             <Route path="/app" element={<AppRouting />} />
             <Route path="/kalendarium" element={<Kalendarium />} />
             <Route path="/workshops" element={<Workshops />} />
+            <Route path="/faq" element={<FAQ />} />
             <Route path="/konstnarer/adamjames" element={<AdamJames />} />
             <Route path="/konstnarer/jameswebb" element={<JamesWebb />} />
             <Route path="/konstnarer/ericmagassa" element={<EricMagassa />} />

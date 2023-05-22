@@ -1,0 +1,37 @@
+{
+    "faqTitle":
+    {
+        "sv": "Vanliga frågor och svar",
+        "en": "Frequently asked questions"
+    },
+    "faqText":
+    {
+        "sv": "Kan du inte hitta svar på din fråga i listan? Tveka inte att kontakta teamet genom att trycka på supportknappen i appen.",
+        "en": "Can't find an answer to your question in the list? Don't hesitate to contact the team by pressing the support button in the app."
+    },
+    "faq":
+    [
+        {
+            "id": "compatibility",
+            "question":{
+                "sv":"Det står att appen inte är kompatibel med min enhet",
+                "en":"The app is not compatible with my device"
+            },
+            "answer":{
+                "sv":"Augmented reality är tillgängligt på de flesta nyare smartphones, men tyvärr inte alla. För iOS gäller det alla iPhones sen 6s, [för Android så finns här en fullständig lista.](https://developers.google.com/ar/devices) Vissa telefoner, som till exempel Doro, har inte stöd för AR. Detta är en hårdvarulimitation och beror inte på hur appen är konstruerad.",
+                "en":"Augmented reality is available on most newer smartphones, but unfortunately not all. For iOS it applies to all iPhones since 6s, [for Android here is a complete list.](https://developers.google.com/ar/devices) Some phones, such as the Doro, do not support AR. This is a hardware limitation and does not depend on how the app is constructed."
+            }
+        },
+        {
+            "id": "battery",
+            "question":{
+                "sv":"Appen drar mycket batteri",
+                "en":"The app use a lot of battery"
+            },
+            "answer":{
+                "sv":"Augmented reality är en riktig energislukare. Telefonen behöver dels koppla upp sig mot GPS för att förstå var den är i staden, se omgivningarna för att förstå var den är i relation till platsen, analysera denna data för att förstå var den är i rummet, samt placera ut konsten. Det är mycket att hantera för de små datorerna. Vi rekommenderar att man inte försöker se all verk på en gång, utan tar ett par tre stycken åt gången.",
+                "en":"Augmented reality is a real energy guzzler. The phone needs to connect to GPS to understand where it is in the city, see the surroundings to understand where it is in relation to the location, analyze this data to understand where it is in the room, and then place the art. That's a lot for the little computers to handle. We recommend that you do not try to see all the works at once, but take a couple or three pieces at a time."
+            }
+        }
+    ]
+}
