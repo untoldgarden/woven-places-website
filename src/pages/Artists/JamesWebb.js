@@ -11,9 +11,9 @@ const JamesWebb = () => {
   return (
     <div className="content-section">
       <div className="container">
-        {/* <div className="image-container">
-          <img src="/images/artworks/jameswebb-medicerinfurturempatiskmagi.webp" alt="James Webb - Mediciner för tur och empatisk magi" />
-        </div> */}
+        <div className="image-container">
+          <img src="/images/artworks/jameswebb.webp" alt="James Webb - Mediciner för tur och empatisk magi" />
+        </div>
         <div className="title">
           <ReactMarkdown>{data.jamesWebb.title[language]}</ReactMarkdown>
         </div>
