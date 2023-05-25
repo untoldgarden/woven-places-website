@@ -1,5 +1,5 @@
 .bannerImage {
-    max-width: 40%;
+    max-width: 30%;
     height: auto;
     margin-top: 50px;
     margin-bottom: 20px;
@@ -7,7 +7,7 @@
 
   @media screen and (max-width: 767px) {
     .bannerImage {
-      max-width: 90%;
+      max-width: 60%;
       height: auto;
     }
   }

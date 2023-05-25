@@ -17,6 +17,7 @@ const Home = () => {
           <div className="taglineCursive">
             <ReactMarkdown>{data.titleCursive[language]}</ReactMarkdown>
           </div>
+          <br></br>
           <div className="video-container">
             <iframe 
               src="https://player.vimeo.com/video/825080696" 
