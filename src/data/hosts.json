@@ -1,48 +1,2937 @@
 {
-    "hostsTitle":
-    {
+    "hostsTitle": {
         "sv": "Lokala värdar i Vävda rum",
         "en": "Local hosts in Vävda rum"
     },
-    "hostsText":
-    {
+    "hostsText": {
         "sv": "På den här kartan visas i vilka kommuner i Sveriges som utställningen Vävda rum kommer att visas under perioden 20/5 – 30/9 2023. Ladda ner appen Vävda rum till din mobil för att se var konstverken finns i din kommun.",
         "en": "This map shows in which municipalities in Sweden the exhibition Vävda rum will be shown during the period 20/5 – 30/9 2023. Download the app Vävda rum to your mobile to see where the artworks are located in your municipality."
     },
-    "hosts":
-    [
+    "hostsListTitle": {
+        "sv": "Lista över värdar",
+        "en": "List of local hosts"
+    },
+    "hostEvenListTitle": {
+        "sv": "Kalendarium",
+        "en": "Events"
+    },
+    "timeSeparator": {
+        "sv": " kl ",
+        "en": " at "
+    },
+    "hosts": [
         {
             "id": "organisation",
-            "name":{
-                "sv":"Svenskt namn",
-                "en":"English name"
+            "name": {
+                "sv": "Alla Prima Konstklubb Alings\u00e5s",
+                "en": "Alla Prima Konstklubb Alings\u00e5s"
             },
-            "description":{
-                "sv":"Svensk beskrivning",
-                "en":"English description"
+            "url": {
+                "sv": "https://allaprima.konstforeningar.se/",
+                "en": "https://allaprima.konstforeningar.se/"
             },
-            "address":{
-                "sv":"Svensk adress",
-                "en":"English address"
+            "address": {
+                "sv": "Allings\u00e5s",
+                "en": "Allings\u00e5s"
             },
-            "events":
-            [
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Arjeplogs Konstf\u00f6rening",
+                "en": "Arjeplogs Konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://arjeplog.konstforeningar.se/",
+                "en": "https://arjeplog.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "Arjeplog",
+                "en": "Arjeplog"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Moskosel Creative Park",
+                "en": "Moskosel Creative Park"
+            },
+            "url": {
+                "sv": "http://www.moskoselcreativepark.com/",
+                "en": "http://www.moskoselcreativepark.com/"
+            },
+            "address": {
+                "sv": "Arvidsjaur",
+                "en": "Arvidsjaur"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Arvika konstf\u00f6rening",
+                "en": "Arvika konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://artworks.se/arvikakonsthall",
+                "en": "https://artworks.se/arvikakonsthall"
+            },
+            "address": {
+                "sv": "Arvika",
+                "en": "Arvika"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Folkare konstf\u00f6rening",
+                "en": "Folkare konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://www.facebook.com/groups/555746097773728/",
+                "en": "https://www.facebook.com/groups/555746097773728/"
+            },
+            "address": {
+                "sv": "Avesta",
+                "en": "Avesta"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Ovikens konstf\u00f6rening",
+                "en": "Ovikens konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://www.facebook.com/profile.php?id=100078173074069",
+                "en": "https://www.facebook.com/profile.php?id=100078173074069"
+            },
+            "address": {
+                "sv": "Bergs kommun",
+                "en": "Bergs kommun"
+            },
+            "events": [
                 {
-                    "id":"event",
-                    "name":{
-                        "sv":"Svenskt event namn",
-                        "en":"English event name"
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage & konstvandring ",
+                        "en": "Vernissage & guided art walk"
                     },
-                    "time":{
-                        "sv":"Svenskt event tid",
-                        "en":"English event time"
+                    "time": {
+                        "sv": "2023-05-20T13:00",
+                        "en": "2023-05-20T13:00"
                     },
-                    "description":{
-                        "sv":"Svensk event beskrivning",
-                        "en":"English event description"
+                    "url": {
+                        "sv": "Plats: Torget, Myrviken centrum.",
+                        "en": "Location: The Square, Myrviken center."
                     }
                 }
             ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Bjuvs kommun",
+                "en": "Bjuvs kommun"
+            },
+            "url": {
+                "sv": "https://www.bjuv.se/",
+                "en": "https://www.bjuv.se/"
+            },
+            "address": {
+                "sv": "Bjuv",
+                "en": "Bjuv"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Teater Nu / Boy konsthall",
+                "en": "Teater Nu / Boy konsthall"
+            },
+            "url": {
+                "sv": "https://www.boykonsthall.se/",
+                "en": "https://www.boykonsthall.se/"
+            },
+            "address": {
+                "sv": "Bollebygd",
+                "en": "Bollebygd"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "\u00d6lands Museum Himmelsberga",
+                "en": "\u00d6lands Museum Himmelsberga"
+            },
+            "url": {
+                "sv": "https://olandsmuseum.com/",
+                "en": "https://olandsmuseum.com/"
+            },
+            "address": {
+                "sv": "Borgholm",
+                "en": "Borgholm"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Bor\u00e5s och Sjuh\u00e4radsbygdens konstf\u00f6rening",
+                "en": "Bor\u00e5s och Sjuh\u00e4radsbygdens konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://www.flamenska.se/",
+                "en": "https://www.flamenska.se/"
+            },
+            "address": {
+                "sv": "Bor\u00e5s ",
+                "en": "Bor\u00e5s "
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage 20/5 kl. 12-15. ",
+                        "en":  "Vernissage"
+                    },
+                    "time": {
+                        "sv": "2023-05-20T12:00",
+                        "en": "2023-05-20T12:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Flamenska galleriet.",
+                        "en": "Place: Flamenska galleriet."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "If\u00f6 Center Exhibit",
+                "en": "If\u00f6 Center Exhibit"
+            },
+            "url": {
+                "sv": "https://www.ifocenter.com/",
+                "en": "https://www.ifocenter.com/"
+            },
+            "address": {
+                "sv": "Brom\u00f6lla",
+                "en": "Brom\u00f6lla"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage & guidad konstpromenad ",
+                        "en": "Vernissage & guided art walk"
+                    },
+                    "time": {
+                        "sv": "2023-05-20T13:00",
+                        "en": "2023-05-20T13:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Dammen vid Lagunens Demenscenter i Brom\u00f6lla (Villag. 1). Mer info: https://fb.me/e/2TdwR86Vt",
+                        "en": "Location: Dammen vid Lagunens Demenscenter in Brom\u00f6lla (Villag. 1). More info: https://fb.me/e/2TdwR86Vt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Br\u00e4cke Folketshus upa/KulturCrew",
+                "en": "Br\u00e4cke Folketshus upa/KulturCrew"
+            },
+            "url": {
+                "sv": "https://www.facebook.com/brackefolketshus/?locale=sv_SE",
+                "en": "https://www.facebook.com/brackefolketshus/?locale=sv_SE"
+            },
+            "address": {
+                "sv": "Br\u00e4cke ",
+                "en": "Br\u00e4cke "
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Enk\u00f6pings Konstf\u00f6rening",
+                "en": "Enk\u00f6pings Konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://enkoping.konstforeningar.se/",
+                "en": "https://enkoping.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "Enk\u00f6ping",
+                "en": "Enk\u00f6ping"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage",
+                        "en":  "Vernissage"
+                    },
+                    "time": {
+                        "sv": "2023-05-20T11:00",
+                        "en": "2023-05-20T11:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Afzelius park.",
+                        "en": "Place: Afzelius park."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Eskilstuna Konstf\u00f6rening",
+                "en": "Eskilstuna Konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://eskilstuna.konstforeningar.se/",
+                "en": "https://eskilstuna.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "Eskilstuna",
+                "en": "Eskilstuna"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage",
+                        "en":  "Vernissage"
+                    },
+                    "time": {
+                        "sv": "2023-05-20T14:00",
+                        "en": "2023-05-20T14:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Stora eken utanf\u00f6r Stiga Sports Arena i Eskilstuna.",
+                        "en": "Place: Stora eken outside Stiga Sports Arena in Eskilstuna."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Framtid Nossebro ",
+                "en": "Framtid Nossebro "
+            },
+            "url": {
+                "sv": "https://www.facebook.com/people/Framtid-Nossebro/100068800783524/?paipv=0&eav=AfalI3-RW5LnVhlSMgZXAxTsov0ryVGxQSykRoMlDC6e14ISFrr054Ih1TvhKeGTZcQ&_rdr",
+                "en": "https://www.facebook.com/people/Framtid-Nossebro/100068800783524/?paipv=0&eav=AfalI3-RW5LnVhlSMgZXAxTsov0ryVGxQSykRoMlDC6e14ISFrr054Ih1TvhKeGTZcQ&_rdr"
+            },
+            "address": {
+                "sv": "Essunga ",
+                "en": "Essunga "
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage & Essunga 40 \u00e5r",
+                        "en": "Vernissage"
+                    },
+                    "time": {
+                        "sv": "2023-05-20T13:00",
+                        "en": "2023-05-20T13:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Nosse kvarn.",
+                        "en": "Place: Nosse kvarn."
+                    }
+                },
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Konstvandring",
+                        "en": "Art walk"
+                    },
+                    "time": {
+                        "sv": "2023-06-07T15:00",
+                        "en": "2023-06-07T15:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Nosse kvarn.",
+                        "en": "Place: Nosse kvarn."
+                    }
+                },
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Introduktion till konstvandring",
+                        "en": "Introduction to art walking"
+                    },
+                    "time": {
+                        "sv": "2023-06-21T15:00",
+                        "en": "2023-06-21T15:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Nosse kvarn.",
+                        "en": "Place: Nosse kvarn."
+                    }
+                },
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Introduktion till konstvandring",
+                        "en": "Introduction to art walking"
+                    },
+                    "time": {
+                        "sv": "2023-06-28T15:00",
+                        "en": "2023-06-28T15:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Nosse kvarn.",
+                        "en": "Place: Nosse kvarn."
+                    }
+                },
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Introduktion till konstvandring",
+                        "en": "Introduction to art walking"
+                    },
+                    "time": {
+                        "sv": "2023-07-08T15:00",
+                        "en": "2023-07-08T15:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Nosse kvarn.",
+                        "en": "Place: Nosse kvarn."
+                    }
+                },
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Introduktion till konstvandring",
+                        "en": "Introduction to art walking"
+                    },
+                    "time": {
+                        "sv": "2023-07-12T15:00",
+                        "en": "2023-07-12T15:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Nosse kvarn.",
+                        "en": "Place: Nosse kvarn."
+                    }
+                },
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Introduktion till konstvandring",
+                        "en": "Introduction to art walking"
+                    },
+                    "time": {
+                        "sv": "2023-07-26T15:00",
+                        "en": "2023-07-26T15:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Nosse kvarn.",
+                        "en": "Place: Nosse kvarn."
+                    }
+                },
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Introduktion till konstvandring",
+                        "en": "Introduction to art walking"
+                    },
+                    "time": {
+                        "sv": "2023-08-16T15:00",
+                        "en": "2023-08-16T15:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Nosse kvarn.",
+                        "en": "Place: Nosse kvarn."
+                    }
+                },
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Introduktion till konstvandring",
+                        "en": "Introduction to art walking"
+                    },
+                    "time": {
+                        "sv": "2023-08-23T15:00",
+                        "en": "2023-08-23T15:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Nosse kvarn.",
+                        "en": "Place: Nosse kvarn."
+                    }
+                },
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Finissage",
+                        "en": "Exhibition closing"
+                    },
+                    "time": {
+                        "sv": "2023-09-30T12:00",
+                        "en": "2023-09-30T12:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Nosse kvarn.",
+                        "en": "Place: Nosse kvarn."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Falbygdens konstf\u00f6rening",
+                "en": "Falbygdens konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://falbygdenskf.se/",
+                "en": "https://falbygdenskf.se/"
+            },
+            "address": {
+                "sv": "Falk\u00f6ping",
+                "en": "Falk\u00f6ping"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Konstf\u00f6reningen Eken",
+                "en": "Konstf\u00f6reningen Eken"
+            },
+            "url": {
+                "sv": "https://www.facebook.com/groups/875486672573067/",
+                "en": "https://www.facebook.com/groups/875486672573067/"
+            },
+            "address": {
+                "sv": "Flen",
+                "en": "Flen"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Gamla kraftstationen",
+                "en": "Gamla kraftstationen"
+            },
+            "url": {
+                "sv": "https://www.gamlakraftstationen.se/",
+                "en": "https://www.gamlakraftstationen.se/"
+            },
+            "address": {
+                "sv": "Forshaga ",
+                "en": "Forshaga "
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Gnosj\u00f6 kultur och bibliotek",
+                "en": "Gnosj\u00f6 kultur och bibliotek"
+            },
+            "url": {
+                "sv": "https://bibliotek.gnosjo.se/",
+                "en": "https://bibliotek.gnosjo.se/"
+            },
+            "address": {
+                "sv": "Gnosj\u00f6 ",
+                "en": "Gnosj\u00f6 "
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Konstfr\u00e4mjandet V\u00e4rmland",
+                "en": "Konstfr\u00e4mjandet V\u00e4rmland"
+            },
+            "url": {
+                "sv": "http://varmland.konstframjandet.se/",
+                "en": "http://varmland.konstframjandet.se/"
+            },
+            "address": {
+                "sv": "Grums",
+                "en": "Grums"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Bygdeg\u00e5rdsf\u00f6rening Gr\u00e4storps konserthus",
+                "en": "Bygdeg\u00e5rdsf\u00f6rening Gr\u00e4storps konserthus"
+            },
+            "url": {
+                "sv": "https://www.facebook.com/GrastorpsBygdegardsforening/",
+                "en": "https://www.facebook.com/GrastorpsBygdegardsforening/"
+            },
+            "address": {
+                "sv": "Gr\u00e4storp ",
+                "en": "Gr\u00e4storp "
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "IDKA",
+                "en": "IDKA"
+            },
+            "url": {
+                "sv": null,
+                "en": null
+            },
+            "address": {
+                "sv": "G\u00e4vle",
+                "en": "G\u00e4vle"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "SBK Konstf\u00f6rening G\u00f6teborg",
+                "en": "SBK Konstf\u00f6rening G\u00f6teborg"
+            },
+            "url": {
+                "sv": "https://sbkgbg.konstforeningar.se/",
+                "en": "https://sbkgbg.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "G\u00f6teborg",
+                "en": "G\u00f6teborg"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Fritids- och kulturf\u00f6rvaltningen, Habo kommun",
+                "en": "Fritids- och kulturf\u00f6rvaltningen, Habo kommun"
+            },
+            "url": {
+                "sv": "https://www.habokommun.se/Kommun--politik/Organisation/Forvaltningar/Fritids-och-kulturforvaltningen/",
+                "en": "https://www.habokommun.se/Kommun--politik/Organisation/Forvaltningar/Fritids-och-kulturforvaltningen/"
+            },
+            "address": {
+                "sv": "Habo",
+                "en": "Habo"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Konstf\u00f6reningen Kreativitet",
+                "en": "Konstf\u00f6reningen Kreativitet"
+            },
+            "url": {
+                "sv": "https://kreativitet.org/",
+                "en": "https://kreativitet.org/"
+            },
+            "address": {
+                "sv": "Hagfors",
+                "en": "Hagfors"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "KKV Halmstad",
+                "en": "KKV Halmstad"
+            },
+            "url": {
+                "sv": "https://www.kkvhalmstad.se/",
+                "en": "https://www.kkvhalmstad.se/"
+            },
+            "address": {
+                "sv": "Halmstad",
+                "en": "Halmstad"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Jala Konst & Hantverksf\u00f6rening",
+                "en": "Jala Konst & Hantverksf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://www.facebook.com/jalakonstohantverk/",
+                "en": "https://www.facebook.com/jalakonstohantverk/"
+            },
+            "address": {
+                "sv": "Haparanda",
+                "en": "Haparanda"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "KORDA Art in motion",
+                "en": "KORDA Art in motion"
+            },
+            "url": {
+                "sv": "https://korda.org/",
+                "en": "https://korda.org/"
+            },
+            "address": {
+                "sv": "Hedemora",
+                "en": "Hedemora"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Hofors Konstintresse",
+                "en": "Hofors Konstintresse"
+            },
+            "url": {
+                "sv": "https://hoforskonstintresse.konstforeningar.se/",
+                "en": "https://hoforskonstintresse.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "Hofors",
+                "en": "Hofors"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Hudiksvalls konstgille",
+                "en": "Hudiksvalls konstgille"
+            },
+            "url": {
+                "sv": "https://hudiksvallskonstgille.konstforeningar.se/",
+                "en": "https://hudiksvallskonstgille.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "Hudiksvall",
+                "en": "Hudiksvall"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "F\u00f6reningen Kopparslagaren",
+                "en": "F\u00f6reningen Kopparslagaren"
+            },
+            "url": {
+                "sv": "https://kopparslagaren.com/",
+                "en": "https://kopparslagaren.com/"
+            },
+            "address": {
+                "sv": "Hultsfred",
+                "en": "Hultsfred"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Solsidans kulturf\u00f6rening",
+                "en": "Solsidans kulturf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://www.studiofolkhemmet.com/solsidans-kulturf%C3%B6rening",
+                "en": "https://www.studiofolkhemmet.com/solsidans-kulturf%C3%B6rening"
+            },
+            "address": {
+                "sv": "Hylte",
+                "en": "Hylte"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Skokloster Konst & Hantverksf\u00f6rening",
+                "en": "Skokloster Konst & Hantverksf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://www.skoklosterkonsthantverk.se/",
+                "en": "https://www.skoklosterkonsthantverk.se/"
+            },
+            "address": {
+                "sv": "H\u00e5bo",
+                "en": "H\u00e5bo"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "H\u00e4rjedalens Fj\u00e4llmuseum",
+                "en": "H\u00e4rjedalens Fj\u00e4llmuseum"
+            },
+            "url": {
+                "sv": "https://www.fjallmuseet.se/",
+                "en": "https://www.fjallmuseet.se/"
+            },
+            "address": {
+                "sv": "H\u00e4rjedalen",
+                "en": "H\u00e4rjedalen"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "H\u00e4rn\u00f6sands konstf\u00f6rening",
+                "en": "H\u00e4rn\u00f6sands konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://harnosand.konstforeningar.se/",
+                "en": "https://harnosand.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "H\u00e4rn\u00f6sand",
+                "en": "H\u00e4rn\u00f6sand"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Tyringe Konstf\u00f6rening",
+                "en": "Tyringe Konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://tyringe.konstforeningar.se/",
+                "en": "https://tyringe.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "H\u00e4ssleholm",
+                "en": "H\u00e4ssleholm"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage",
+                        "en":  "Vernissage"
+                    },
+                    "time": {
+                        "sv": "2023-05-20T14:00",
+                        "en": "2023-05-20T14:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Tyringe bibliotek.",
+                        "en": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "H\u00f6rby konstf\u00f6rening",
+                "en": "H\u00f6rby konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://www.facebook.com/horbykonstforening.blogspot.se/?locale=sv_SE",
+                "en": "https://www.facebook.com/horbykonstforening.blogspot.se/?locale=sv_SE"
+            },
+            "address": {
+                "sv": "H\u00f6rby ",
+                "en": "H\u00f6rby "
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "H\u00f6\u00f6rs konstf\u00f6rening",
+                "en": "H\u00f6\u00f6rs konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://konstihoor.se/",
+                "en": "https://konstihoor.se/"
+            },
+            "address": {
+                "sv": "H\u00f6\u00f6r",
+                "en": "H\u00f6\u00f6r"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Jokkmokks kommun, Kultur och Fritid",
+                "en": "Jokkmokks kommun, Kultur och Fritid"
+            },
+            "url": {
+                "sv": "https://www.jokkmokk.se/kommun-samhalle/kommun-och-Politik/avdelningar-och-enheter/kommunledningskontoret/kultur-och-fritidsfunktionen/",
+                "en": "https://www.jokkmokk.se/kommun-samhalle/kommun-och-Politik/avdelningar-och-enheter/kommunledningskontoret/kultur-och-fritidsfunktionen/"
+            },
+            "address": {
+                "sv": "Jokkmokks kommun",
+                "en": "Jokkmokks kommun"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "\u00d6ster\u00e4ngens konsthall",
+                "en": "\u00d6ster\u00e4ngens konsthall"
+            },
+            "url": {
+                "sv": "https://osterangenskonsthall.se/",
+                "en": "https://osterangenskonsthall.se/"
+            },
+            "address": {
+                "sv": "J\u00f6nk\u00f6ping",
+                "en": "J\u00f6nk\u00f6ping"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage",
+                        "en": "Vernissage"
+                    },
+                    "time": {
+                        "sv": "2023-05-20T11:00",
+                        "en": "2023-05-20T11:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Hovr\u00e4ttstorget i J\u00f6nk\u00f6ping.",
+                        "en": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Kalix konstf\u00f6rening",
+                "en": "Kalix konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://kalixkonst.se/",
+                "en": "https://kalixkonst.se/"
+            },
+            "address": {
+                "sv": "Kalix",
+                "en": "Kalix"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Kalmar konstf\u00f6rening",
+                "en": "Kalmar konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://www.kalmarkonstmuseum.se/om-kalmar-konstmuseum/kalmar-konstforening/",
+                "en": "https://www.kalmarkonstmuseum.se/om-kalmar-konstmuseum/kalmar-konstforening/"
+            },
+            "address": {
+                "sv": "Kalmar",
+                "en": "Kalmar"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage och guidad visning",
+                        "en": "Vernissage and guided viewing"
+                    },
+                    "time": {
+                        "sv": "2023-05-20T14:00",
+                        "en": "2023-05-20T14:00"
+                    },
+                    "url": {
+                        "sv": "Utg\u00e5r fr\u00e5n Kalmar konstmuseum, anm\u00e4lan senast 17/5",
+                        "en": "Starts at Kalmar Art Museum / last registration 17 May."
+                    }
+                },
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Guidad visning",
+                        "en": "Guided viewing"
+                    },
+                    "time": {
+                        "sv": "2023-07-08T14:00",
+                        "en": "2023-07-08T14:00"
+                    },
+                    "url": {
+                        "sv": "Utg\u00e5r fr\u00e5n Kalmar konstmuseum och workshop utifr\u00e5n av verken i Stadsparken p\u00e5 Kalmar konstmuseum / sista anm\u00e4lan 6 juli. ",
+                        "en": "Starts at Kalmar Art Museum and workshop based on the works in Stadsparken at the Kalmar Art Museum / last registration July 6."
+                    }
+                },
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Guidad visning",
+                        "en": "Guided viewing"
+                    },
+                    "time": {
+                        "sv": "2023-08-12T11:00",
+                        "en": "2023-08-12T11:00"
+                    },
+                    "url": {
+                        "sv": "Utg\u00e5r fr\u00e5n Kalmar konstmuseum /sista anm\u00e4lan 10 augusti",
+                        "en": "Starts at Kalmar Art Museum / last registration 10 August."
+                    }
+                },
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Finissage och guidad visning",
+                        "en": "Finishing and guided viewing"
+                    },
+                    "time": {
+                        "sv": "2023-09-30T14:00",
+                        "en": "2023-09-30T14:00"
+                    },
+                    "url": {
+                        "sv": "Utg\u00e5r fr\u00e5n Kalmar konstmuseum / sista anm\u00e4lan 27 september.",
+                        "en": "Starts at Kalmar Art Museum / last registration 27 September."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Karlsborgs konstf\u00f6rening",
+                "en": "Karlsborgs konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://artworks.se/karlsborgskonstforening",
+                "en": "https://artworks.se/karlsborgskonstforening"
+            },
+            "address": {
+                "sv": "Karlsborg",
+                "en": "Karlsborg"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage",
+                        "en": "Vernissage"
+                    },
+                    "time": {
+                        "sv": "2023-05-20T11:00",
+                        "en": "2023-05-20T11:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Utanf\u00f6r Kulturstugan, Norra kanalgatan 2.",
+                        "en": "Location: Outside Kulturstugan, Norra kanalgatan 2."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Karlskoga konstf\u00f6rening",
+                "en": "Karlskoga konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://mockelnforeningarna.se/karlskogakonstforening/",
+                "en": "https://mockelnforeningarna.se/karlskogakonstforening/"
+            },
+            "address": {
+                "sv": "Karlskoga",
+                "en": "Karlskoga"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage",
+                        "en": "Vernissage"
+                    },
+                    "time": {
+                        "sv": "2023-05-20T11:00",
+                        "en": "2023-05-20T11:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Karlskoga bibliotek",
+                        "en": "Place: Karlskoga bibliotek"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Kulturf\u00f6reningen Carolus",
+                "en": "Kulturf\u00f6reningen Carolus"
+            },
+            "url": {
+                "sv": "https://carolus.konstforeningar.se/",
+                "en": "https://carolus.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "Karlskrona",
+                "en": "Karlskrona"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "VSK- V\u00e4stra S\u00f6rmlands Konstf\u00f6rening",
+                "en": "VSK- V\u00e4stra S\u00f6rmlands Konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://vastrasormland.konstforeningar.se/",
+                "en": "https://vastrasormland.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "Katrineholm",
+                "en": "Katrineholm"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Kiruna Konstgille",
+                "en": "Kiruna Konstgille"
+            },
+            "url": {
+                "sv": "https://kirunakonstgille.se/",
+                "en": "https://kirunakonstgille.se/"
+            },
+            "address": {
+                "sv": "Kiruna",
+                "en": "Kiruna"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage",
+                        "en": null
+                    },
+                    "time": {
+                        "sv": "2023-05-20T12:00",
+                        "en": "2023-05-20T12:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Stadshustorget.",
+                        "en": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Kramfors konstf\u00f6rening ",
+                "en": "Kramfors konstf\u00f6rening "
+            },
+            "url": {
+                "sv": "https://krfkonst.se/",
+                "en": "https://krfkonst.se/"
+            },
+            "address": {
+                "sv": "Kramfors",
+                "en": "Kramfors"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Konsthallens V\u00e4nner Kristianstad",
+                "en": "Konsthallens V\u00e4nner Kristianstad"
+            },
+            "url": {
+                "sv": "https://regionmuseet.se/kristianstads-konsthall/om-kristianstads-konsthall/foreningen-konsthallens-vanner/",
+                "en": "https://regionmuseet.se/kristianstads-konsthall/om-kristianstads-konsthall/foreningen-konsthallens-vanner/"
+            },
+            "address": {
+                "sv": "Kristianstad",
+                "en": "Kristianstad"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Kristinehamns Konstf\u00f6rening",
+                "en": "Kristinehamns Konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "http://kristinehamnskonstforening.se/",
+                "en": "http://kristinehamnskonstforening.se/"
+            },
+            "address": {
+                "sv": "Kristinehamn",
+                "en": "Kristinehamn"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage",
+                        "en": null
+                    },
+                    "time": {
+                        "sv": "2023-05-20T12:00",
+                        "en": "2023-05-20T12:00"
+                    },
+                    "url": {
+                        "sv": "Plats: vid Picassostatyn.",
+                        "en": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Asp\u00e5s Heimbygdsf\u00f6rening",
+                "en": "Asp\u00e5s Heimbygdsf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://www.hembygd.se/aspas",
+                "en": "https://www.hembygd.se/aspas"
+            },
+            "address": {
+                "sv": "Krokom",
+                "en": "Krokom"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Kumla-Sannahed Hembygdsf\u00f6rening",
+                "en": "Kumla-Sannahed Hembygdsf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://www.hembygd.se/kumla-sannahed",
+                "en": "https://www.hembygd.se/kumla-sannahed"
+            },
+            "address": {
+                "sv": "Kumla",
+                "en": "Kumla"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Norra Hallands Konstf\u00f6rening",
+                "en": "Norra Hallands Konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://nhkf.se/",
+                "en": "https://nhkf.se/"
+            },
+            "address": {
+                "sv": "Kungsbacka",
+                "en": "Kungsbacka"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage",
+                        "en": "Vernissage"
+                    },
+                    "time": {
+                        "sv": "2023-05-20T15:00",
+                        "en": "2023-05-20T15:00"
+                    },
+                    "url": {
+                        "sv": null,
+                        "en": null
+                    }
+                },
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Konstvandring",
+                        "en": "Art walk"
+                    },
+                    "time": {
+                        "sv": "2023-06-17T13:00",
+                        "en": "2023-06-17T13:00"
+                    },
+                    "url": {
+                        "sv": "Start Kungsbacka torg.",
+                        "en": "Start at Kungsbacka torg."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "F\u00f6reningen Kilsbergskanten",
+                "en": "F\u00f6reningen Kilsbergskanten"
+            },
+            "url": {
+                "sv": "https://kilsbergskanten.se/",
+                "en": "https://kilsbergskanten.se/"
+            },
+            "address": {
+                "sv": "Lekeberg",
+                "en": "Lekeberg"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage tillsammas med boksl\u00e4pp f\u00f6r guideboken \"Sev\u00e4rt i norra Kilsbergen\"",
+                        "en": "Vernissage coincides with a book launch for the guide book \"Sev\u00e4rt i norra Kilsbergen\""
+                    },
+                    "time": {
+                        "sv": " 2023-05-20T16:00",
+                        "en": " 2023-05-20T16:00"
+                    },
+                    "url": {
+                        "sv": "Plats: F\u00f6reningens lokal \"Navet\" i Lekhyttans gamla skola",
+                        "en": "Place: Purification premises \"Navet\" in Lekhyttan's old school"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Leksands Konsts\u00e4llskap + T\u00e4llbergs konstf\u00f6rening",
+                "en": "Leksands Konsts\u00e4llskap + T\u00e4llbergs konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://leksandskonstsallskap.se/",
+                "en": "https://leksandskonstsallskap.se/"
+            },
+            "address": {
+                "sv": "Leksand",
+                "en": "Leksand"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage",
+                        "en": "Vernissage"
+                    },
+                    "time": {
+                        "sv": " 2023-05-20T14:00",
+                        "en": " 2023-05-20T14:00"
+                    },
+                    "url": {
+                        "sv": "Plats: P\u00e5 torget utanf\u00f6r M\u00e5rtas.",
+                        "en": "Location: P\u00e5 square outside M\u00e5rtas."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Lindesbergs konstf\u00f6rening",
+                "en": "Lindesbergs konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://lindesberg.konstforeningar.se/",
+                "en": "https://lindesberg.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "Lindesberg",
+                "en": "Lindesberg"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "\u00d6stg\u00f6ta konstf\u00f6rening",
+                "en": "\u00d6stg\u00f6ta konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "http://ostgotakonstforening.nu/",
+                "en": "http://ostgotakonstforening.nu/"
+            },
+            "address": {
+                "sv": "Link\u00f6ping",
+                "en": "Link\u00f6ping"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Lomma Konstf\u00f6rening",
+                "en": "Lomma Konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://www.lommakonstforening.se/",
+                "en": "https://www.lommakonstforening.se/"
+            },
+            "address": {
+                "sv": "Lomma",
+                "en": "Lomma"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Konstf\u00f6reningen Panorama",
+                "en": "Konstf\u00f6reningen Panorama"
+            },
+            "url": {
+                "sv": "https://lund.se/personalingangen/panorama",
+                "en": "https://lund.se/personalingangen/panorama"
+            },
+            "address": {
+                "sv": "Lund",
+                "en": "Lund"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Lycksele konstf\u00f6rening",
+                "en": "Lycksele konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://lycksele.konstforeningar.se/",
+                "en": "https://lycksele.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "lycksele",
+                "en": "lycksele"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Mal\u00e5bygdens kulturf\u00f6rening",
+                "en": "Mal\u00e5bygdens kulturf\u00f6rening"
+            },
+            "url": {
+                "sv": null,
+                "en": null
+            },
+            "address": {
+                "sv": "Mal\u00e5",
+                "en": "Mal\u00e5"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Mariestads konstf\u00f6rening",
+                "en": "Mariestads konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://www.vastsverige.com/mariestad/produkter/panncentralen-galleri-konstforening/",
+                "en": "https://www.vastsverige.com/mariestad/produkter/panncentralen-galleri-konstforening/"
+            },
+            "address": {
+                "sv": "Mariestad",
+                "en": "Mariestad"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Sydv\u00e4stra Sm\u00e5lands konstf\u00f6rening",
+                "en": "Sydv\u00e4stra Sm\u00e5lands konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://sydvastrasmalandskonstforening.wordpress.com/",
+                "en": "https://sydvastrasmalandskonstforening.wordpress.com/"
+            },
+            "address": {
+                "sv": "Markaryd",
+                "en": "Markaryd"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Mora Konstf\u00f6rening",
+                "en": "Mora Konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://www.facebook.com/morakonstforening/",
+                "en": "https://www.facebook.com/morakonstforening/"
+            },
+            "address": {
+                "sv": "Mora",
+                "en": "Mora"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Motala konstf\u00f6rening",
+                "en": "Motala konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://motala.konstforeningar.se/",
+                "en": "https://motala.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "Motala",
+                "en": "Motala"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Konstvandring",
+                        "en": "Art walk"
+                    },
+                    "time": {
+                        "sv": "2023-05-20T11:00",
+                        "en": "2023-05-20T11:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Samling vid Dubergska g\u00e5rden, Bispmotalagatan 34",
+                        "en": "Place: Collection at Dubergska g\u00e5rden, Bispmotalagatan 34"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Akvatinten",
+                "en": "Akvatinten"
+            },
+            "url": {
+                "sv": "https://www.akvatinten.se",
+                "en": "https://www.akvatinten.se"
+            },
+            "address": {
+                "sv": "Munkedal",
+                "en": "Munkedal"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage",
+                        "en": "Vernissage"
+                    },
+                    "time": {
+                        "sv": "2023-05-20T10:00",
+                        "en": "2023-05-20T10:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Gamla bruket, Munkedal & torget i Hedekas",
+                        "en": "Location: Old mill, Munkedal & the square in Hedekas"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "M\u00f6lndals stads konstf\u00f6rening",
+                "en": "M\u00f6lndals stads konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://molndalsstad.konstforeningar.se/",
+                "en": "https://molndalsstad.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "M\u00f6lndal",
+                "en": "M\u00f6lndal"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Boo Konstf\u00f6rening",
+                "en": "Boo Konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://boo.konstforeningar.se/",
+                "en": "https://boo.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "Nacka ",
+                "en": "Nacka "
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Nordmalings Konstf\u00f6rening",
+                "en": "Nordmalings Konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://nordmalingskonstforening.wordpress.com/",
+                "en": "https://nordmalingskonstforening.wordpress.com/"
+            },
+            "address": {
+                "sv": "Nordmaling",
+                "en": "Nordmaling"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "V.O.D.K.A.N",
+                "en": "V.O.D.K.A.N"
+            },
+            "url": {
+                "sv": "https://gallerikameleont.wordpress.com/vodkan/",
+                "en": "https://gallerikameleont.wordpress.com/vodkan/"
+            },
+            "address": {
+                "sv": "Norrk\u00f6ping ",
+                "en": "Norrk\u00f6ping "
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "H\u00e4ver\u00f6bygdens kf, Norrt\u00e4lje kf och Norrt\u00e4lje konsthall",
+                "en": "H\u00e4ver\u00f6bygdens kf, Norrt\u00e4lje kf och Norrt\u00e4lje konsthall"
+            },
+            "url": {
+                "sv": "https://norrtaljekonstforening.se/",
+                "en": "https://norrtaljekonstforening.se/"
+            },
+            "address": {
+                "sv": "Norrt\u00e4lje",
+                "en": "Norrt\u00e4lje"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Information och hj\u00e4lp att ladda ner appen",
+                        "en": "Information and help to download the app"
+                    },
+                    "time": {
+                        "sv": "2023-05-20T12:00",
+                        "en": "2023-05-20T12:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Biblioteket i Rimbo, Konsthallen i Hallstaviks bibliotek, Norrt\u00e4lje konsthall, Lilla torget i Norrt\u00e4lje. Norrt\u00e4lje konstf\u00f6rening vandrar dessutom runt mellan de olika platserna i staden. Kolla efter de ljusbl\u00e5 v\u00e4starna.",
+                        "en": "Location: The library in Rimbo, the Art Gallery in Hallstavik's library, Norrt\u00e4lje art hall, Lilla torget in Norrt\u00e4lje. Norrt\u00e4le konstf\u00e4rening also wanders around between the different places in the city. Look for the light bursts. "
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Norsj\u00f6 Hembygdsf\u00f6rening",
+                "en": "Norsj\u00f6 Hembygdsf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://nbhf.se/",
+                "en": "https://nbhf.se/"
+            },
+            "address": {
+                "sv": "Norsj\u00f6 ",
+                "en": "Norsj\u00f6 "
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Turinge-Taxinge hembygdsf\u00f6rening",
+                "en": "Turinge-Taxinge hembygdsf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://www.hembygd.se/turinge-taxinge",
+                "en": "https://www.hembygd.se/turinge-taxinge"
+            },
+            "address": {
+                "sv": "Nykvarn",
+                "en": "Nykvarn"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Nyk\u00f6pings konstf\u00f6rening",
+                "en": "Nyk\u00f6pings konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://www.nykopingskonstforening.nu/",
+                "en": "https://www.nykopingskonstforening.nu/"
+            },
+            "address": {
+                "sv": "Nyk\u00f6ping",
+                "en": "Nyk\u00f6ping"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Sj\u00f6h\u00e4stens v\u00e4nner",
+                "en": "Sj\u00f6h\u00e4stens v\u00e4nner"
+            },
+            "url": {
+                "sv": "https://sjohastensvanner.konstforeningar.se/",
+                "en": "https://sjohastensvanner.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "Nyk\u00f6ping",
+                "en": "Nyk\u00f6ping"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Konstf\u00f6reningen KonstArt",
+                "en": "Konstf\u00f6reningen KonstArt"
+            },
+            "url": {
+                "sv": "https://www.facebook.com/konstforeningenkonstart/",
+                "en": "https://www.facebook.com/konstforeningenkonstart/"
+            },
+            "address": {
+                "sv": "Orust",
+                "en": "Orust"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "20/5: Invigning av muralm\u00e5lning kl. 12, vernissage V\u00e4vda rum kl. 14. Plats: Carl von Linnes v\u00e4g, Svanesund.",
+                        "en": "20/5: Inauguration of mural painting at 12 noon, opening of the V\u00e4vda room at 2 p.m. Location: Carl von Linnes v\u00e4g, Svanesund."
+                    },
+                    "time": {
+                        "sv": "",
+                        "en": ""
+                    },
+                    "url": {
+                        "sv": "",
+                        "en": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Byalaget Wisseltofta V\u00e4nner",
+                "en": "Byalaget Wisseltofta V\u00e4nner"
+            },
+            "url": {
+                "sv": "https://visseltofta.nu/",
+                "en": "https://visseltofta.nu/"
+            },
+            "address": {
+                "sv": "Osby ",
+                "en": "Osby "
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Konstf\u00f6reningen K\u00e4llstr\u00f6msg\u00e5rden & Oskarshamns KF",
+                "en": "Konstf\u00f6reningen K\u00e4llstr\u00f6msg\u00e5rden & Oskarshamns KF"
+            },
+            "url": {
+                "sv": "https://kallstromsgarden.se/",
+                "en": "https://kallstromsgarden.se/"
+            },
+            "address": {
+                "sv": "Oskarshamn",
+                "en": "Oskarshamn"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Oskarshamns konstf\u00f6rening",
+                "en": "Oskarshamns konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://oskarshamn.konstforeningar.se/",
+                "en": "https://oskarshamn.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "Oskarshamn",
+                "en": "Oskarshamn"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Konst i Svaben, KiS",
+                "en": "Konst i Svaben, KiS"
+            },
+            "url": {
+                "sv": "https://svabensverk.se/konstisvaben/",
+                "en": "https://svabensverk.se/konstisvaben/"
+            },
+            "address": {
+                "sv": "Ovan\u00e5ker",
+                "en": "Ovan\u00e5ker"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Korpilombolo kulturf\u00f6rening konstsektionen",
+                "en": "Korpilombolo kulturf\u00f6rening konstsektionen"
+            },
+            "url": {
+                "sv": "https://www.nightfestival.se/arkiv/kulturforeningen/",
+                "en": "https://www.nightfestival.se/arkiv/kulturforeningen/"
+            },
+            "address": {
+                "sv": "Pajala",
+                "en": "Pajala"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Perstorps kommun",
+                "en": "Perstorps kommun"
+            },
+            "url": {
+                "sv": "https://www.perstorp.se/",
+                "en": "https://www.perstorp.se/"
+            },
+            "address": {
+                "sv": "Perstorp",
+                "en": "Perstorp"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Pite\u00e5 konstf\u00f6rening",
+                "en": "Pite\u00e5 konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://pitekonst.se/",
+                "en": "https://pitekonst.se/"
+            },
+            "address": {
+                "sv": "Pite\u00e5",
+                "en": "Pite\u00e5"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage & konstvandring 20/5 kl. 12. Pastelae medverkar. Plats: Kaleido, Storgatan 44. Tre konstvandringar i juli.",
+                        "en": "Vernissage & art walk 20/5 at 12 noon. Pastelae participates. Location: Kaleido, Storgatan 44. Three art walks in July."
+                    },
+                    "time": {
+                        "sv": "",
+                        "en": ""
+                    },
+                    "url": {
+                        "sv": "",
+                        "en": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Ronneby kommun",
+                "en": "Ronneby kommun"
+            },
+            "url": {
+                "sv": "https://www.ronneby.se/",
+                "en": "https://www.ronneby.se/"
+            },
+            "address": {
+                "sv": "Ronneby",
+                "en": "Ronneby"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Konstvandring 10/6 kl. 11-12. Samling i entr\u00e9n p\u00e5 Kulturcentrum Ronneby konsthall. Konst i Blekinge h\u00e5ller i konstvandringen. Vandringen avslutas med vernissage p\u00e5 KC f\u00f6r de som \u00f6nskar.",
+                        "en": "Art walk 10/6 at 11-12. Collection at the entrance of the Kulturcentrum Ronneby art gallery. Art in Blekinge is part of the art walk. The walk ends with an opening at KC for those who wish."
+                    },
+                    "time": {
+                        "sv": null,
+                        "en": null
+                    },
+                    "url": {
+                        "sv": null,
+                        "en": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "R\u00e4ttviks Konstf\u00f6rening ",
+                "en": "R\u00e4ttviks Konstf\u00f6rening "
+            },
+            "url": {
+                "sv": "https://www.facebook.com/konstirattvik/",
+                "en": "https://www.facebook.com/konstirattvik/"
+            },
+            "address": {
+                "sv": "R\u00e4ttvik",
+                "en": "R\u00e4ttvik"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Konstvandring 20/5 kl. 12. Plats: R\u00e4ttviks kulturhus, Storgatan 2.",
+                        "en": "Art walk 20/5 at 12 noon. Location: R\u00e4ttvik cultural center, Storgatan 2."
+                    },
+                    "time": {
+                        "sv": null,
+                        "en": null
+                    },
+                    "url": {
+                        "sv": null,
+                        "en": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Konstklubben Oden & Konstens rum i Sandviken",
+                "en": "Konstklubben Oden & Konstens rum i Sandviken"
+            },
+            "url": {
+                "sv": "https://www.konstklubbenoden.se/",
+                "en": "https://www.konstklubbenoden.se/"
+            },
+            "address": {
+                "sv": "Sandviken",
+                "en": "Sandviken"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage och konstvandring 20/5, kl. 13. Plats: Konsthallen i Sandviken.",
+                        "en": "Opening och art walk 20/5, kl. 13. Place: The Konsthall in Sandviken."
+                    },
+                    "time": {
+                        "sv": null,
+                        "en": null
+                    },
+                    "url": {
+                        "sv": null,
+                        "en": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "\u00d6stra Sk\u00e5nes Konstn\u00e4rsgrupp",
+                "en": "\u00d6stra Sk\u00e5nes Konstn\u00e4rsgrupp"
+            },
+            "url": {
+                "sv": "https://oskg.se/",
+                "en": "https://oskg.se/"
+            },
+            "address": {
+                "sv": "Simrishamn",
+                "en": "Simrishamn"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Borrby Bokby",
+                "en": "Borrby Bokby"
+            },
+            "url": {
+                "sv": "https://borrby-bokby.se/",
+                "en": "https://borrby-bokby.se/"
+            },
+            "address": {
+                "sv": "Simrishamn",
+                "en": "Simrishamn"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Skellefte\u00e5 Konstf\u00f6rening",
+                "en": "Skellefte\u00e5 Konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://skellefteakonstforening.wordpress.com/",
+                "en": "https://skellefteakonstforening.wordpress.com/"
+            },
+            "address": {
+                "sv": "Skellefte\u00e5 ",
+                "en": "Skellefte\u00e5 "
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Sk\u00f6vde Allm\u00e4nna Konstf\u00f6rening",
+                "en": "Sk\u00f6vde Allm\u00e4nna Konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://skovde.konstforeningar.se/",
+                "en": "https://skovde.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "Sk\u00f6vde",
+                "en": "Sk\u00f6vde"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Konstvandring 6/6 kl. 13. Plats: Kulturhustorget.",
+                        "en": "Art walk 6/6 kl. 13. Place: Kulturhustorget."
+                    },
+                    "time": {
+                        "sv": "",
+                        "en": ""
+                    },
+                    "url": {
+                        "sv": "",
+                        "en": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Barkenbygdens konstf\u00f6rening ",
+                "en": "Barkenbygdens konstf\u00f6rening "
+            },
+            "url": {
+                "sv": "https://www.facebook.com/profile.php?id=100064734457300",
+                "en": "https://www.facebook.com/profile.php?id=100064734457300"
+            },
+            "address": {
+                "sv": "Smedjebacken ",
+                "en": "Smedjebacken "
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Sollefte\u00e5 konstf\u00f6rening",
+                "en": "Sollefte\u00e5 konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://solleftea.konstforeningar.se/",
+                "en": "https://solleftea.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "Sollefte\u00e5",
+                "en": "Sollefte\u00e5"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage 20/5 kl. 10.30. Plats: utanf\u00f6r Centrumplan 3.",
+                        "en": "Exhibition opening 20/5 at 10.30. Place: outside Centrumplan 3."
+                    },
+                    "time": {
+                        "sv": "",
+                        "en": ""
+                    },
+                    "url": {
+                        "sv": "",
+                        "en": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Berga konstf\u00f6rening",
+                "en": "Berga konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://berga.konstforeningar.se/",
+                "en": "https://berga.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "Solna",
+                "en": "Solna"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Sorsele poesis\u00e4llskap",
+                "en": "Sorsele poesis\u00e4llskap"
+            },
+            "url": {
+                "sv": "https://www.sorselepoesi.se/",
+                "en": "https://www.sorselepoesi.se/"
+            },
+            "address": {
+                "sv": "Sorsele",
+                "en": "Sorsele"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage 20/5 kl. 14. Vernissage vid entren till Bergagalleriet. Under vernissaget kommer en peruansk dansgrupp att upptr\u00e4da. Plats: Bj\u00f6rnstigen 137.",
+                        "en": "Vernissage 20/5 at 14. Vernissage at the entrance to the Bergagalleriet. During the opening, a Peruvian dance group will perform. Location: Bj\u00f6rnstigen 137."
+                    },
+                    "time": {
+                        "sv": "",
+                        "en": ""
+                    },
+                    "url": {
+                        "sv": "",
+                        "en": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Konstf\u00f6reningen Soten\u00e4set",
+                "en": "Konstf\u00f6reningen Soten\u00e4set"
+            },
+            "url": {
+                "sv": "https://www.facebook.com/konstforeningensotenaset/",
+                "en": "https://www.facebook.com/konstforeningensotenaset/"
+            },
+            "address": {
+                "sv": "Soten\u00e4s",
+                "en": "Soten\u00e4s"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Konsthallens V\u00e4nner i Staffanstorp",
+                "en": "Konsthallens V\u00e4nner i Staffanstorp"
+            },
+            "url": {
+                "sv": "https://staffanstorp.se/uppleva-och-gora/kultur/konsthallen/",
+                "en": "https://staffanstorp.se/uppleva-och-gora/kultur/konsthallen/"
+            },
+            "address": {
+                "sv": "Staffanstorp",
+                "en": "Staffanstorp"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Konstvandring 10/6 kl. 10, plats: Torget i Staffanstorp. Konstvandring 10/6 kl. 15, plats: vid f\u00f6rsamlingsg\u00e5rden, Hj\u00e4rup.",
+                        "en": "Art Walk 10/6 at 10 a.m., location: Square in Staffanstorp. Art Walk 10/6 at 3 p.m., location: at the gathering place, Hj\u00e4rup."
+                    },
+                    "time": {
+                        "sv": "",
+                        "en": ""
+                    },
+                    "url": {
+                        "sv": "",
+                        "en": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Husby Konst & Hantverksf\u00f6rening",
+                "en": "Husby Konst & Hantverksf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://www.husbygard.nu/",
+                "en": "https://www.husbygard.nu/"
+            },
+            "address": {
+                "sv": "Stockholm",
+                "en": "Stockholm"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Konsthall C",
+                "en": "Konsthall C"
+            },
+            "url": {
+                "sv": "https://www.konsthallc.se/",
+                "en": "https://www.konsthallc.se/"
+            },
+            "address": {
+                "sv": "Stockholm",
+                "en": "Stockholm"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Str\u00e4ngn\u00e4s konstf\u00f6rening",
+                "en": "Str\u00e4ngn\u00e4s konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://strangnas.konstforeningar.se/",
+                "en": "https://strangnas.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "Str\u00e4ngn\u00e4s",
+                "en": "Str\u00e4ngn\u00e4s"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Konst och musik p\u00e5 Koster",
+                "en": "Konst och musik p\u00e5 Koster"
+            },
+            "url": {
+                "sv": "https://www.facebook.com/kulturhostpakoster/",
+                "en": "https://www.facebook.com/kulturhostpakoster/"
+            },
+            "address": {
+                "sv": "Str\u00f6mstad ",
+                "en": "Str\u00f6mstad "
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage 20/5 kl. 13. Plats: Naturum.",
+                        "en": "Vernissage 20/5 at 1 p.m. Location: Naturum."
+                    },
+                    "time": {
+                        "sv": "",
+                        "en": ""
+                    },
+                    "url": {
+                        "sv": "",
+                        "en": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Nedre Fryksdals konstf\u00f6rening",
+                "en": "Nedre Fryksdals konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://nfksunne.se/",
+                "en": "https://nfksunne.se/"
+            },
+            "address": {
+                "sv": "Sunne",
+                "en": "Sunne"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Svedala kommunanst\u00e4lldas konstf\u00f6rening",
+                "en": "Svedala kommunanst\u00e4lldas konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://www.svedala.se/uppleva/kalender/2023/maj/vernissage-for-utstallningen-vavda-rum/",
+                "en": "https://www.svedala.se/uppleva/kalender/2023/maj/vernissage-for-utstallningen-vavda-rum/"
+            },
+            "address": {
+                "sv": "Svedala",
+                "en": "Svedala"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Svenljunga kommun",
+                "en": "Svenljunga kommun"
+            },
+            "url": {
+                "sv": "https://www.svenljunga.se/",
+                "en": "https://www.svenljunga.se/"
+            },
+            "address": {
+                "sv": "Svenljunga",
+                "en": "Svenljunga"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "S\u00e4ffle konstf\u00f6rening",
+                "en": "S\u00e4ffle konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://www.facebook.com/profile.php?id=100068874931820",
+                "en": "https://www.facebook.com/profile.php?id=100068874931820"
+            },
+            "address": {
+                "sv": "S\u00e4ffle",
+                "en": "S\u00e4ffle"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "S\u00e4ters kommun Kulturenheten ",
+                "en": "S\u00e4ters kommun Kulturenheten "
+            },
+            "url": {
+                "sv": "https://www.sater.se/gora-uppleva/kultur/",
+                "en": "https://www.sater.se/gora-uppleva/kultur/"
+            },
+            "address": {
+                "sv": "S\u00e4ter",
+                "en": "S\u00e4ter"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "S\u00f6derhamns konstf\u00f6rening",
+                "en": "S\u00f6derhamns konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://soderhamn.konstforeningar.se/",
+                "en": "https://soderhamn.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "S\u00f6derhamn",
+                "en": "S\u00f6derhamn"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage 20/5 kl. 12. Plats: R\u00e5dhustorget, S\u00f6derhamn.",
+                        "en": "Vernissage 20/5 at 12 noon. Location: R\u00e5dhustorget, S\u00f6derhamn."
+                    },
+                    "time": {
+                        "sv": "",
+                        "en": ""
+                    },
+                    "url": {
+                        "sv": "",
+                        "en": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "S\u00f6lvesborgs Konstf\u00f6rening",
+                "en": "S\u00f6lvesborgs Konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://www.solvesborgskonstforening.se/",
+                "en": "https://www.solvesborgskonstforening.se/"
+            },
+            "address": {
+                "sv": "S\u00f6lvesborg",
+                "en": "S\u00f6lvesborg"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage 20/5 kl. 10 p\u00e5 S\u00f6lvesborgs bibliotek",
+                        "en": "Vernissage 20/5 at 10 a.m. at S\u00f6lvesborg's library"
+                    },
+                    "time": {
+                        "sv": "",
+                        "en": ""
+                    },
+                    "url": {
+                        "sv": "",
+                        "en": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Timr\u00e5 bibliotek (med st\u00f6d av lokala f\u00f6reningar)",
+                "en": "Timr\u00e5 bibliotek (med st\u00f6d av lokala f\u00f6reningar)"
+            },
+            "url": {
+                "sv": "https://bibliotek.timra.se/",
+                "en": "https://bibliotek.timra.se/"
+            },
+            "address": {
+                "sv": "Timr\u00e5 ",
+                "en": "Timr\u00e5 "
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Tomelilla konstf\u00f6rening",
+                "en": "Tomelilla konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://tomelilla.konstforeningar.se/",
+                "en": "https://tomelilla.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "Tomelilla",
+                "en": "Tomelilla"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Trosabygdens konstf\u00f6rening",
+                "en": "Trosabygdens konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://trosabygdens.konstforeningar.se/",
+                "en": "https://trosabygdens.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "Trosa",
+                "en": "Trosa"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Tyres\u00f6 konstf\u00f6rening",
+                "en": "Tyres\u00f6 konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://tyresokonstforening.se/",
+                "en": "https://tyresokonstforening.se/"
+            },
+            "address": {
+                "sv": "Tyres\u00f6",
+                "en": "Tyres\u00f6"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Uddevalla Konstf\u00f6rening",
+                "en": "Uddevalla Konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://uddevalla.konstforeningar.se/",
+                "en": "https://uddevalla.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "Uddevalla",
+                "en": "Uddevalla"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Ume\u00e5 Konstf\u00f6rening",
+                "en": "Ume\u00e5 Konstf\u00f6rening"
+            },
+            "url": {
+                "sv": null,
+                "en": null
+            },
+            "address": {
+                "sv": "Ume\u00e5",
+                "en": "Ume\u00e5"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "UB Konst",
+                "en": "UB Konst"
+            },
+            "url": {
+                "sv": "https://www.facebook.com/profile.php?id=100079690430410",
+                "en": "https://www.facebook.com/profile.php?id=100079690430410"
+            },
+            "address": {
+                "sv": "Upplands Bro ",
+                "en": "Upplands Bro "
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "V\u00e4sby Konsthalls V\u00e4nner",
+                "en": "V\u00e4sby Konsthalls V\u00e4nner"
+            },
+            "url": {
+                "sv": "https://artworks.se/vasbykonsthall",
+                "en": "https://artworks.se/vasbykonsthall"
+            },
+            "address": {
+                "sv": "Upplands V\u00e4sby",
+                "en": "Upplands V\u00e4sby"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "L\u00e4kekonst",
+                "en": "L\u00e4kekonst"
+            },
+            "url": {
+                "sv": "https://engelholmskonstforening.org/program/andra%20konstf%C3%B6reningars%20utflykter/l%C3%A4kekonst.html",
+                "en": "https://engelholmskonstforening.org/program/andra%20konstf%C3%B6reningars%20utflykter/l%C3%A4kekonst.html"
+            },
+            "address": {
+                "sv": "Uppsala",
+                "en": "Uppsala"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Uppvidinge Konst och Kulturf\u00f6rening",
+                "en": "Uppvidinge Konst och Kulturf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://www.uppvidingekonstforening.se/",
+                "en": "https://www.uppvidingekonstforening.se/"
+            },
+            "address": {
+                "sv": "Uppvidinge",
+                "en": "Uppvidinge"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "H\u00e5llplats Konst och Kulturf\u00f6rening",
+                "en": "H\u00e5llplats Konst och Kulturf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://hallplats.konstforeningar.se/",
+                "en": "https://hallplats.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "Valdemarsvik",
+                "en": "Valdemarsvik"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Konstvandring",
+                        "en": "Art walk"
+                    },
+                    "time": {
+                        "sv": "2023-05-22T18:30",
+                        "en": "2023-05-22T18:30"
+                    },
+                    "url": {
+                        "sv": "Plats: samling i studief\u00f6rbundets lokal p\u00e5 Storgatan.",
+                        "en": "Place: meeting in the student union's premises at 5 Storgatan."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "KKV Varberg",
+                "en": "KKV Varberg"
+            },
+            "url": {
+                "sv": "https://kkvvarberg.se/",
+                "en": "https://kkvvarberg.se/"
+            },
+            "address": {
+                "sv": "Varberg",
+                "en": "Varberg"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Sjungareg\u00e5rden kultur- och teaterf\u00f6rrening",
+                "en": "Sjungareg\u00e5rden kultur- och teaterf\u00f6rrening"
+            },
+            "url": {
+                "sv": "https://sjungaregarden.se",
+                "en": "https://sjungaregarden.se"
+            },
+            "address": {
+                "sv": "Vindeln",
+                "en": "Vindeln"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Konstf\u00f6reningen Konstnerven",
+                "en": "Konstf\u00f6reningen Konstnerven"
+            },
+            "url": {
+                "sv": "https://www.vastervik.com/evenemang/vernissage-vavda-rum-sveriges-stortsta-utstallning-med-virtuell-konst/",
+                "en": "https://www.vastervik.com/evenemang/vernissage-vavda-rum-sveriges-stortsta-utstallning-med-virtuell-konst/"
+            },
+            "address": {
+                "sv": "V\u00e4stervik",
+                "en": "V\u00e4stervik"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Galleri Sigma",
+                "en": "Galleri Sigma"
+            },
+            "url": {
+                "sv": "https://gallerisigma.konstforeningar.se/",
+                "en": "https://gallerisigma.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "V\u00e4xj\u00f6",
+                "en": "V\u00e4xj\u00f6"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Ydre kommunbibliotek",
+                "en": "Ydre kommunbibliotek"
+            },
+            "url": {
+                "sv": "https://www.ydre.se/ydre-kommun/bibliotek",
+                "en": "https://www.ydre.se/ydre-kommun/bibliotek"
+            },
+            "address": {
+                "sv": "Ydre",
+                "en": "Ydre"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "\u00c5re konstf\u00f6rening",
+                "en": "\u00c5re konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://are.konstforeningar.se/",
+                "en": "https://are.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "\u00c5re kommun",
+                "en": "\u00c5re kommun"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Konstfr\u00e4mjandet V\u00e4rmland i samarbete med \u00c5rj\u00e4ngs bibliotek",
+                "en": "Konstfr\u00e4mjandet V\u00e4rmland i samarbete med \u00c5rj\u00e4ngs bibliotek"
+            },
+            "url": {
+                "sv": "http://varmland.konstframjandet.se/",
+                "en": "http://varmland.konstframjandet.se/"
+            },
+            "address": {
+                "sv": "\u00c5rj\u00e4ng",
+                "en": "\u00c5rj\u00e4ng"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "\u00c5sele Hembygdsf\u00f6rening",
+                "en": "\u00c5sele Hembygdsf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://aselehembygdsforening.nu/",
+                "en": "https://aselehembygdsforening.nu/"
+            },
+            "address": {
+                "sv": "\u00c5sele",
+                "en": "\u00c5sele"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "\u00c4lvkarleby Kultur och Fritid",
+                "en": "\u00c4lvkarleby Kultur och Fritid"
+            },
+            "url": {
+                "sv": "https://www.alvkarleby.se/uppleva-och-gora/kultur.html",
+                "en": "https://www.alvkarleby.se/uppleva-och-gora/kultur.html"
+            },
+            "address": {
+                "sv": "\u00c4lvkarleby",
+                "en": "\u00c4lvkarleby"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "\u00c4lvsby konstf\u00f6rening",
+                "en": "\u00c4lvsby konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://www.facebook.com/alvsbykonstforening/?locale=sv_SE",
+                "en": "https://www.facebook.com/alvsbykonstforening/?locale=sv_SE"
+            },
+            "address": {
+                "sv": "\u00c4lvsbyn",
+                "en": "\u00c4lvsbyn"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "\u00c4ngelholms konstf\u00f6rening",
+                "en": "\u00c4ngelholms konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://engelholmskonstforening.org/",
+                "en": "https://engelholmskonstforening.org/"
+            },
+            "address": {
+                "sv": "\u00c4ngelholm",
+                "en": "\u00c4ngelholm"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage 20/5 kl. 10. Plats: i SoSo utanf\u00f6r Klaras, Storgatan 11.",
+                        "en": "Vernissage 20/5 at 10 am. Location: in SoSo outside Klaras, Storgatan 11."
+                    },
+                    "time": {
+                        "sv": "",
+                        "en": ""
+                    },
+                    "url": {
+                        "sv": "",
+                        "en": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "H\u00e4stholmens bygdeg\u00e5rd och byalag",
+                "en": "H\u00e4stholmens bygdeg\u00e5rd och byalag"
+            },
+            "url": {
+                "sv": "https://www.facebook.com/groups/214147472406484/",
+                "en": "https://www.facebook.com/groups/214147472406484/"
+            },
+            "address": {
+                "sv": "\u00d6desh\u00f6g",
+                "en": "\u00d6desh\u00f6g"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Konsthallens v\u00e4nner",
+                "en": "Konsthallens v\u00e4nner"
+            },
+            "url": {
+                "sv": "https://extra.orebro.se/orebrokonsthall/konsthallensvanner.4.1571b2ba1590bfb17fe1500.html",
+                "en": "https://extra.orebro.se/orebrokonsthall/konsthallensvanner.4.1571b2ba1590bfb17fe1500.html"
+            },
+            "address": {
+                "sv": "\u00d6rebro",
+                "en": "\u00d6rebro"
+            },
+            "events": [
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Vernissage",
+                        "en": "Vernissage"
+                    },
+                    "time": {
+                        "sv": "2023-05-20T13:00",
+                        "en": "2023-05-20T13:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Vid Konsthallen, Nygatan 7",
+                        "en": "Location: At the Art Gallery, Nygatan 7"
+                    }
+                },
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Konstvandring",
+                        "en": "Art walk"
+                    },
+                    "time": {
+                        "sv": "2023-05-20T14:00",
+                        "en": "2023-05-20T14:00"
+                    },
+                    "url": {
+                        "sv": "Plats: Start vid Kulturkvarteret",
+                        "en": "Location: Start at the Kulturkvarteret"
+                    }
+                },
+                {
+                    "id": "event",
+                    "name": {
+                        "sv": "Workshop om AI och konsten",
+                        "en": "Workshop on AI and art"
+                    },
+                    "time": {
+                        "sv": "2023-08-06T18:00",
+                        "en": "2023-08-06T18:00"
+                    },
+                    "url": {
+                        "sv": "Plats: AI Impact Lab, \u00d6rebro universitet. Arrang\u00f6r: universitetet och regionen.",
+                        "en": "Place: AI Impact Lab, \u00d6rebro University. Organizers: the university and the region."
+                    }
+                }
+            ]
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "\u00d6ster\u00e5kers konstf\u00f6rening",
+                "en": "\u00d6ster\u00e5kers konstf\u00f6rening"
+            },
+            "url": {
+                "sv": "https://osterakerskonsthall.se/?page_id=32",
+                "en": "https://osterakerskonsthall.se/?page_id=32"
+            },
+            "address": {
+                "sv": "\u00d6ster\u00e5ker",
+                "en": "\u00d6ster\u00e5ker"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "Konstf\u00f6reningen Fr\u00f6ja",
+                "en": "Konstf\u00f6reningen Fr\u00f6ja"
+            },
+            "url": {
+                "sv": "https://froja.konstforeningar.se/",
+                "en": "https://froja.konstforeningar.se/"
+            },
+            "address": {
+                "sv": "\u00d6sthammar",
+                "en": "\u00d6sthammar"
+            },
+            "events": null
+        },
+        {
+            "id": "organisation",
+            "name": {
+                "sv": "\u00d6verkalix Konstf\u00f6rening ",
+                "en": "\u00d6verkalix Konstf\u00f6rening "
+            },
+            "url": {
+                "sv": "https://www.facebook.com/profile.php?id=100072446654786",
+                "en": "https://www.facebook.com/profile.php?id=100072446654786"
+            },
+            "address": {
+                "sv": "\u00d6verkalix ",
+                "en": "\u00d6verkalix "
+            },
+            "events": null
         }
     ]
 }

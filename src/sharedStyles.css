@@ -81,7 +81,9 @@ body {
 }
 
 .header {
+  margin: 0 auto;
   margin-bottom: 50px; /* Adjust the value to increase or decrease the spacing */
+  max-width: 700px;
 }
 
 .taglineBold

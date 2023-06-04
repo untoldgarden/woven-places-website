@@ -32,6 +32,17 @@
                 "sv":"Augmented reality är en riktig energislukare. Telefonen behöver dels koppla upp sig mot GPS för att förstå var den är i staden, se omgivningarna för att förstå var den är i relation till platsen, analysera denna data för att förstå var den är i rummet, samt placera ut konsten. Det är mycket att hantera för de små datorerna. Vi rekommenderar att man inte försöker se all verk på en gång, utan tar ett par tre stycken åt gången.",
                 "en":"Augmented reality is a real energy guzzler. The phone needs to connect to GPS to understand where it is in the city, see the surroundings to understand where it is in relation to the location, analyze this data to understand where it is in the room, and then place the art. That's a lot for the little computers to handle. We recommend that you do not try to see all the works at once, but take a couple or three pieces at a time."
             }
+        },
+        {
+            "id": "crashes",
+            "question":{
+                "sv":"Appen kraschar",
+                "en":"The app crashes"
+            },
+            "answer":{
+                "sv": "Tekniken som Vävda rum använder sig av är avancerad och drar mycket resurser från telefonerna, så ibland hänger den sig tyvärr. Oftast är det bara att starta om igen så fungerar det bra. Om det sker upprepade gånger så kontakta oss via supportknappen i Appen så försöker vi lösa problemet.",
+                "en": "The technology that Vävda rum uses is advanced and draws a lot of resources from the phones, which unfortunately sometimes causes crashes. Most of the time it's just a matter of restarting and it works fine. If it happens repeatedly, contact us via the support button in the App and we will try to solve the problem."
+            }
         }
     ]
 }

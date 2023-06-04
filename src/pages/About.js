@@ -17,6 +17,9 @@ const About = () => {
         </div>
       </div>
       <div className="content-section">
+      {/* <div className="image-container">
+          <img src="/images/artworks/asacederqvist-gigaannum.webp" alt="Åsa Cederqvist"></img>
+        </div> */}
         <div className="title">
           <ReactMarkdown>{data.rskTitle[language]}</ReactMarkdown>
         </div>
@@ -25,6 +28,9 @@ const About = () => {
         </div>
       </div>
       <div className="content-section">
+      <div className="image-container">
+          <img src="/images/artists/untoldgarden.webp" alt="Untold Garden"></img>
+        </div>
         <div className="title">
           <ReactMarkdown>{data.untoldGardenTitle[language]}</ReactMarkdown>
         </div>
@@ -33,6 +39,9 @@ const About = () => {
         </div>
       </div>
       <div className="content-section">
+      <div className="image-container">
+          <img src="/images/ulrikaflink.webp" alt="Ulrika Flink"></img>
+        </div>
         <div className="title">
           <ReactMarkdown>{data.ulrikaFlinkTitle[language]}</ReactMarkdown>
         </div>

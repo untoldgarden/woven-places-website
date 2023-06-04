@@ -7,6 +7,10 @@ import './Artists.css';
 
 const Artists = () => {
   const { language } = useContext(LanguageContext);
+  
+  const shuffledArtists = data.artists.sort(() => {
+    return 0.5 - Math.random();
+  });
 
   return (
     <div className="container">
@@ -14,7 +18,7 @@ const Artists = () => {
         <div className="title-centered">
           <ReactMarkdown>{data.artistsTitle[language]}</ReactMarkdown>
         </div>
-        {data.artists.map((artist, index) => (
+        {shuffledArtists.map((artist, index) => (
           <Link to={`/konstnarer/${artist.id}`} className={`artist-row ${index % 2 === 0 ? 'row-even' : 'row-odd'}`} key={artist.id}>
               <div className="artist-image">
                 <img src={artist.image} alt={artist.title[language]} />
