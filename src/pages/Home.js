@@ -1,6 +1,7 @@
 import React, { useContext } from 'react';
 import { LanguageContext } from '../contexts/LanguageContext';
 import ReactMarkdown from 'react-markdown';
+import { NavLink } from 'react-router-dom';
 import '../sharedStyles.css';
 import data from '../data/home.json';
 
@@ -30,6 +31,11 @@ const Home = () => {
             ></iframe>
           </div>
             <br></br>
+            <br></br>
+          <NavLink className="title-maplink" to="/vardar">
+            <ReactMarkdown>{data.mapLink[language]}</ReactMarkdown>
+          </NavLink>
+          <br></br>
           <div className="text-container">
             <ReactMarkdown>{data.body[language]}</ReactMarkdown>
           </div>

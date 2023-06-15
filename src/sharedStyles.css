@@ -63,6 +63,24 @@ html, body {
   text-align: center;
 }
 
+.title-maplink {
+  color: #000000;
+  font-family: area-normal, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 2em;
+  text-align: center;
+}
+
+.title-maplink:hover {
+  color: #000000;
+  font-family: area-normal, sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 2em;
+  text-align: center;
+  text-decoration: underline;
+}
 
 .responsiveImage {
   max-width: 100%;
