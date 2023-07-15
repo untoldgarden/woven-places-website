@@ -68,8 +68,10 @@ html, body {
   font-family: area-normal, sans-serif;
   font-weight: 700;
   font-style: normal;
-  font-size: 1.5em;
+  font-size: 1.3em;
   text-align: center;
+  width: 50%; /* This is the new line */
+  margin: auto; 
 }
 
 .title-maplink:hover {
@@ -77,9 +79,14 @@ html, body {
   font-family: area-normal, sans-serif;
   font-weight: 900;
   font-style: normal;
-  font-size: 1.5em;
+  font-size: 1.3em;
   text-align: center;
   text-decoration: underline;
+}
+
+.subheading{
+  width: 70%;
+  margin: auto;
 }
 
 .responsiveImage {
@@ -148,6 +155,15 @@ font-style: italic;
   margin-left: auto;
   margin-right: auto;
 }
+
+.title-maplink{
+  font-size: 1em;
+}
+
+.title-maplin:hover{
+  font-size: 1em;
+}
+
 }
 
 .image-container img {

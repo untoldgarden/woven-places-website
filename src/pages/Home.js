@@ -33,7 +33,9 @@ const Home = () => {
             <br></br>
             <br></br>
           <NavLink className="title-maplink" to="/vardar">
+            <div className='subheading'>
             <ReactMarkdown>{data.mapLink[language]}</ReactMarkdown>
+            </div>
           </NavLink>
           <br></br>
           <div className="text-container">
