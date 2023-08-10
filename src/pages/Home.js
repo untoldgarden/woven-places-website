@@ -18,7 +18,21 @@ const Home = () => {
           <div className="taglineCursive">
             <ReactMarkdown>{data.titleCursive[language]}</ReactMarkdown>
           </div>
+          {/* <br></br> */}
+          <div className="image-container">
+          <img src="/images/artworks/giga-annum-jellyfish.webp" alt="Åsa Cederqvist - Giga-annum" />
+        </div>
+            {/* <br></br> */}
+          <NavLink className="title-maplink" to="/vardar">
+            <div className='subheading'>
+            <ReactMarkdown>{data.mapLink[language]}</ReactMarkdown>
+            </div>
+          </NavLink>
           <br></br>
+          <div className="text-container">
+            <ReactMarkdown>{data.body[language]}</ReactMarkdown>
+          </div>
+            <br></br>
           <div className="video-container">
             <iframe 
               src="https://player.vimeo.com/video/825080696" 
@@ -29,17 +43,6 @@ const Home = () => {
               allowfullscreen
               title="Vimeo video player"
             ></iframe>
-          </div>
-            <br></br>
-            <br></br>
-          <NavLink className="title-maplink" to="/vardar">
-            <div className='subheading'>
-            <ReactMarkdown>{data.mapLink[language]}</ReactMarkdown>
-            </div>
-          </NavLink>
-          <br></br>
-          <div className="text-container">
-            <ReactMarkdown>{data.body[language]}</ReactMarkdown>
           </div>
         </div>
       </div>
