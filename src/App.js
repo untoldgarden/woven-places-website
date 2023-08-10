@@ -37,7 +37,7 @@ function App() {
     <Router>
       <ScrollToTop />
       <LanguageProvider>
-        <div className="App" style={backgroundImageStyle}>
+        <div className="App">
           <Header />
           <div className="content-wrapper">
           <Routes>
